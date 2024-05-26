@@ -1,0 +1,1126 @@
+<?xml version="1.0"?>
+	<video id="0" mainelement="missing">
+    	<title>video in development</title>
+    	<area>.</area>
+    	<topic>.</topic>
+    	<bigidea>.</bigidea>
+    	<concept>.</concept>
+    	<students>.</students>
+    	<story>.</story>
+    	<standards>.</standards>  	
+	</video>
+	
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="1" mainelement="2-D Representation">
+    	<title>Rocks and Sand and Awesome Scientists 2</title>
+    	<area>Physical Science</area>
+    	<topic>Matter and Energy</topic>
+    	<bigidea>Constancy and Change </bigidea>
+    	<concept>Matter takes up space</concept>
+    	<students>K-1 Science</students>
+    	<story>To provide children with background knowledge about the concept "matter takes up space," the teacher asked her students to predict what would happen to rocks in a jar when sand was poured on top of them. In this video, children have created drawings to illustrate their predictions and are gathered for a group discussion.</story>
+    	<standards>Materials come in different forms (states), including solids, liquids, and gases. As a basis for understanding this concept:&#10;&nbsp;&nbsp;a. Students know solids, liquids, and gases have different properties.&#10;&nbsp;&nbsp;b. Students know the properties of substances can change when the substances are mixed, cooled, or heated.&#10;</standards>
+    	
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="1"> <![CDATA[What's going to happen, according to you, according to Scientist Chelsea, what's going to happen when we put the sand in there?]]> </cuepoint>
+			<cuepoint id="1" cuetime="8"> <![CDATA[You can tell anything.]]> </cuepoint>
+			<cuepoint id="2" cuetime="10"> <![CDATA[Shh. What's going to happen, Chelsea.]]> </cuepoint> 
+			<cuepoint id="3" cuetime="17"> <![CDATA[Your drawing says it. Can you tell us what your drawing says? What's going to happen?]]> </cuepoint>
+			<cuepoint id="4" cuetime="29"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="5" cuetime="34"> <![CDATA[The sand's going to be at the top of it.]]> </cuepoint>
+			<cuepoint id="6" cuetime="43"> <![CDATA[I'm going to say it a little-- can I say it a little bit louder? The sand is going to be at the top, and the marbles, or blobs, are going to be at the bottom.]]> </cuepoint> 
+			<cuepoint id="7" cuetime="52"> <![CDATA[Thank you Chelsea. I can see the way you wrote it, that's exactly what you meant. Here's the sand, and there's the globs. Thank you!]]> </cuepoint>
+			<cuepoint id="8" cuetime="62"> <![CDATA[What about you, Brandon? What's your prediction?]]> </cuepoint>
+			<cuepoint id="9" cuetime="65"> <![CDATA[I think that it will sink the rocks.]]> </cuepoint>
+			<cuepoint id="10" cuetime="71"> <![CDATA[That the rocks will sink?]]> </cuepoint>
+			<cuepoint id="11" cuetime="73"> <![CDATA[Into the sand.]]> </cuepoint>
+			<cuepoint id="12" cuetime="74"> <![CDATA[Into the sand.]]> </cuepoint>
+			<cuepoint id="13" cuetime="76"> <![CDATA[And it'll be really hard to see them.]]> </cuepoint>
+			<cuepoint id="14" cuetime="78"> <![CDATA[It will be really hard to see them, if I pour the marbles in the sand. Okay, Chloe, what do you think?]]> </cuepoint>
+			<cuepoint id="15" cuetime="89"> <![CDATA[I think that it's gonna move space for the sand.]]> </cuepoint>
+			<cuepoint id="16" cuetime="101"> <![CDATA[Wow. Whoo, eek, wait! Did you hear those words? "That it's going to move space for the sand." What do you mean by that?]]> </cuepoint>
+			<cuepoint id="17" cuetime="112"> <![CDATA[I mean that when you pour the sand in, the globs are going to go to the side, and then it's going to move,]]> </cuepoint> 
+			<cuepoint id="18" cuetime="119"> <![CDATA[and then the sand is going to be on the bottom, and then the globs will go on top.]]> </cuepoint>
+			<cuepoint id="19" cuetime="126"> <![CDATA[Very smart. I don't want to hear the papers, because what she just said-- interesting.]]> </cuepoint> 
+			<cuepoint id="20" cuetime="131"> <![CDATA[The sand will go to the bottom, and the marbles, or blobs, are going to be on top. Interesting.]]> </cuepoint>
+			<cuepoint id="21" cuetime="138"> <![CDATA[What do you think, Andrea?]]> </cuepoint>
+			<cuepoint id="22" cuetime="139"> <![CDATA[I think that, um...]]> </cuepoint>
+			<cuepoint id="23" cuetime="141"> <![CDATA[I want you to see her picture. What do you think? Explain your picture to us.]]> </cuepoint>
+			<cuepoint id="24" cuetime="148"> <![CDATA[I think the rocks, they can't go up, because they're too heavy for the sand, because the sand is more lighter.]]> </cuepoint>
+			<cuepoint id="25" cuetime="157"> <![CDATA[Okay. So what's going to happen.]]> </cuepoint>
+			<cuepoint id="26" cuetime="159"> <![CDATA[Um, the rocks are going to stay down, and the sand will be on top of the rocks.]]> </cuepoint>
+			<cuepoint id="27" cuetime="167"> <![CDATA[I also see you drew--hold on a second--I also see you drew sand around other places. What do you mean by that?]]> </cuepoint>
+			<cuepoint id="28" cuetime="175"> <![CDATA[Because the sand will go lower a little bit, and the rocks will stay a little high.]]> </cuepoint>
+			<cuepoint id="29" cuetime="182"> <![CDATA[Okay. I want you to notice something really quickly before we do the experiment. I think you guys are awesome scientists. You really thought hard!]]> </cuepoint>
+		</subtitleCuepoints>
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="8"> <![CDATA[With the foundation of the lesson planned in formal planning, the teacher asks children to make predictions and discuss them. This requires the teacher to use flexibility as she listens to children and builds on their ideas.]]> </cuepoint>
+			<cuepoint id="1" cuetime="29"> <![CDATA[The children's predictions provide an assessment of their prior knowledge, which helps the teacher plan firsthand experiences related to the concepts. Later the children will use their predictions as references during and after conducting an experiment.]]> </cuepoint>
+			<cuepoint id="2" cuetime="101"> <![CDATA[Although the teacher does not know what the children are going to say, she knows what the big idea is and chooses certain students' responses to either help highlight the learning goal or point out misconceptions. Notice, also, how she creates a rich and meaningful discussion by calling on children from different cultural and linguistic backgrounds and including both boys and girls.]]> </cuepoint>
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="12">  <![CDATA[The teacher works with a small group of children on the rug. They sit in a circle, which helps include everyone in the discussion.]]> </cuepoint>
+			<cuepoint id="1" cuetime="52">  <![CDATA[Note that the representation and the experiment use simple materials such as marbles, sand, water, markers, and paper.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="14"> <![CDATA[The children have had prior experiences with sorting and categorizing solids by their properties, such as texture, weight, size and shape and by their characteristics, rough, heavy, small and round.]]> </cuepoint>
+			<cuepoint id="1" cuetime="136"> <![CDATA[Making predictions and discussing them helps provide background knowledge that prepares children for the secondhand experience that will follow. This helps them become more selective in their observations of the secondhand experience and focuses their attention on the concept, which is <i>matter takes up space.</i>]]> </cuepoint>
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="21"> <![CDATA[The teacher encourages the child to discuss her two dimensional representation. The child's response will help the teacher assess the student's understanding of the concept.]]> </cuepoint>
+			<cuepoint id="1" cuetime="61"> <![CDATA[The children accompany their two dimensional representations with oral or textual representations or both.]]> </cuepoint>
+			<cuepoint id="2" cuetime="84"> <![CDATA[Asking clarifying questions helps the teacher assess the child's understanding.]]> </cuepoint>
+			<cuepoint id="3" cuetime="136"> <![CDATA[Repeating the child's words and asking a follow-up question reinforces a good observation and helps move the child forward in her understanding.]]> </cuepoint>
+		</representationCuepoints>	
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="8">   <![CDATA[Notice how the teacher refers to the child as a scientist. This helps the child see herself as a scientist, which in turn builds confidence and competence.]]> </cuepoint>
+			<cuepoint id="1" cuetime="46">  <![CDATA[Here the teacher helps a shy, quiet child feel safe explaining her work to her peers. She does this by letting the child finish her explanation even when it's inaudible to others, preventing other children from interrupting, and respectfully asking the child to repeat her explanation for the rest of the group.]]> </cuepoint>
+			<cuepoint id="2" cuetime="62">  <![CDATA[Notice how the teacher calls attention to the concept by pausing the conversation and repeating the child's words to the group. This also reinforces the scientific lexicon.]]> </cuepoint>
+			<cuepoint id="3" cuetime="157"> <![CDATA[Notice how the teacher makes an English Language learner feel comfortable discussing her ideas in front of her peers. She does this by calling on the child last, which gives the child time to observe others interacting with the teacher. The teacher also asks open-ended questions for which there is no wrong answer.]]> </cuepoint>
+		</cultureCuepoints>
+	</video>
+
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+	
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="2" mainelement="3-D Representation">
+    	<title>The Roller Coaster 2</title>
+    	<area>Physical Science</area>
+    	<topic>Matter and Energy</topic>
+    	<bigidea>Cause and Effect</bigidea>
+    	<concept>Force causes motion</concept>
+    	<students>K-1 Science</students>
+    	<story>During their study of simple machines, force and motion, and kinetic and potential energy, students decided to build a roller coaster that sends messages from one classroom to another. In this video, two children are working on the roller coaster model.</story>
+    	<standards>The motion of objects can be observed and measured. As a basis for understanding this concept:&#10;a. Students know the position of an object can be described by locating it in relation to another object or to the background.&#10;b. Students know an object's motion can be described by recording the change in position of the object over time.&#10;c. Students know the way to change how something is moving is by giving it a push or a pull. The size of the change is related to the strength, or the amount of force, of the push or pull.&#10;d. Students know tools and machines are used to apply pushes and pulls (forces) to make things move.&#10;e. Students know objects fall to the ground unless something holds them up.</standards>
+    	
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="7"> <![CDATA[Aw, it's flat!]]> </cuepoint>
+			<cuepoint id="1" cuetime="8"> <![CDATA[But it goes through just fine.]]> </cuepoint>
+			<cuepoint id="2" cuetime="11"> <![CDATA[Oh! We could tape it on! We could tape it on or drill it.]]> </cuepoint>
+			<cuepoint id="3" cuetime="15"> <![CDATA[No, that's not--]]> </cuepoint>
+			<cuepoint id="4" cuetime="16"> <![CDATA[We could tape it on or drill it? That sounds like a possibility.]]> </cuepoint>
+			<cuepoint id="5" cuetime="19"> <![CDATA[Give me another piece. No, put it up there.]]> </cuepoint>
+			<cuepoint id="6" cuetime="25"> <![CDATA[See, if you do this, it might be able to hold it.]]> </cuepoint>
+			<cuepoint id="7" cuetime="29"> <![CDATA[No, that's not--]]> </cuepoint>
+			<cuepoint id="8" cuetime="30"> <![CDATA[Yeah, that's good!]]> </cuepoint>
+			<cuepoint id="9" cuetime="32"> <![CDATA[Yeah, okay, now try it. Try it. Julian, let it go.]]> </cuepoint>
+			<cuepoint id="10" cuetime="35"> <![CDATA[No, but then it won't have the support it needs, too.]]> </cuepoint>
+			<cuepoint id="11" cuetime="39"> <![CDATA[I'll get more things.]]> </cuepoint>
+			<cuepoint id="12" cuetime="42"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="13" cuetime="49"> <![CDATA[Now did it work?]]> </cuepoint>
+			<cuepoint id="14" cuetime="52"> <![CDATA[Oh. Oh, look, it just--]]> </cuepoint>
+			<cuepoint id="15" cuetime="54"> <![CDATA[Oh, I see why it doesn't! It's because it's going against this, so it doesn't fall!]]> </cuepoint>
+			<cuepoint id="16" cuetime="59"> <![CDATA[Yeah.]]> </cuepoint>
+			<cuepoint id="17" cuetime="61"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="18" cuetime="68"> <![CDATA[What are those?]]> </cuepoint>
+			<cuepoint id="19" cuetime="69"> <![CDATA[They're chains. Nah, it won't happen. We need more things.]]> </cuepoint>
+			<cuepoint id="20" cuetime="86"> <![CDATA[We need something to support this a little more.]]> </cuepoint>
+			<cuepoint id="21" cuetime="90"> <![CDATA[You need something to support it a little more?]]> </cuepoint>
+			<cuepoint id="22" cuetime="91"> <![CDATA[Because it basically--]]> </cuepoint>
+			<cuepoint id="23" cuetime="95"> <![CDATA[Okay, it looks to me like you need something that isn't going to topple over. So, why don't you look around?]]> </cuepoint>
+			<cuepoint id="24" cuetime="101"> <![CDATA[A cup! We can use a cup!]]> </cuepoint>
+			<cuepoint id="25" cuetime="106"> <![CDATA[We can use a cup to do it!]]> </cuepoint>
+			<cuepoint id="26" cuetime="108"> <![CDATA[I can't, you know why? Because when I'm up here working, I just can't supervise them.]]> </cuepoint>
+			<cuepoint id="27" cuetime="113"> <![CDATA[So they're just-- these two are working very productively at trying to figure out how to suspend that off the ground.]]> </cuepoint>
+			<cuepoint id="28" cuetime="121"> <![CDATA[Okay.]]> </cuepoint>
+			<cuepoint id="29" cuetime="122"> <![CDATA[But more than that, at this point I can't supervise them.]]> </cuepoint>
+			<cuepoint id="30" cuetime="123"> <![CDATA[Why does it go down?]]> </cuepoint>
+			<cuepoint id="31" cuetime="127"> <![CDATA[Let's try again.]]> </cuepoint>
+		</subtitleCuepoints>
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="16">  <![CDATA[Planning for a project involves teachers deciding what materials will be needed to implement the children's ideas. In this example, the teacher also planned to have the students bring scrap materials in from home so that they would be available for use in building the roller coaster.]]> </cuepoint>
+			<cuepoint id="1" cuetime="86">  <![CDATA[Students' interests, such as the need to support the ramp they are working on, can lead to effective ideas and projects that are related to the concepts. In fact, this entire roller coaster project was designed by the children to send messages between two classrooms.]]> </cuepoint>
+			<cuepoint id="2" cuetime="107"> <![CDATA[Next you will hear the teacher struggling with the challenges inherent in planning which activities to monitor and which students to allow freedom in their work as she aims to have all of the students work productively.]]> </cuepoint>
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="5">   <![CDATA[The roller coaster has been mounted on the windows outside the classroom, making the outdoor space an extension of the learning environment. The model remains here while in progress so that the students can continually examine it and add to it as they learn more about the concepts being studied.]]> </cuepoint>
+			<cuepoint id="1" cuetime="75">  <![CDATA[Materials consist of a variety of donated scraps such as chains, empty containers and blocks of wood. Using donated or found materials keeps project costs low and inspires ingenuity.]]> </cuepoint>
+			<cuepoint id="2" cuetime="100"> <![CDATA[Materials for the project are readily accessible to the children so that they can easily experiment with them as they search for the best supplies to complete their model.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="6">   <![CDATA[Because this is a 3-D model, it is both conceptual and a firsthand experience where the students can see the issues involved in using simple machines such as ramps, and explore the concepts of force and motion. This experience can also lead to new conjectures about motion, such as when this student says, "when it goes slow, it stays just fine."]]> </cuepoint>
+			<cuepoint id="1" cuetime="123"> <![CDATA[Having a firsthand experience with a model leads the students to new questions such as "Why does it [the ball] go down?" It also gives them tools to experiment and to attempt to find the answers to their questions.]]> </cuepoint>
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="12">  <![CDATA[Building a 3-D structure such as a roller coaster provides a natural way to explore the properties of force and motion and kinetic and potential energy.]]> </cuepoint>
+			<cuepoint id="1" cuetime="60">  <![CDATA[As the children repeatedly test their roller coaster they make revisions to help the message ball roll through one section more effectively.]]> </cuepoint>
+			<cuepoint id="2" cuetime="108"> <![CDATA[In each representation different materials are offered. Here the children choose the materials. At other times the teacher makes the choice.]]> </cuepoint>
+		</representationCuepoints>	
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="5">   <![CDATA[Although a teacher is present to supervise, the children are trusted to work on testing and improving the model roller coaster. They are able to work independently and productively because the teachers have set up routines to support this and children have had much practice working together.]]> </cuepoint>
+			<cuepoint id="1" cuetime="38">  <![CDATA[Children work together, negotiating, discussing and planning. Having well-established social routines and offering frequent opportunities to collaborate help children develop and practice these skills.]]> </cuepoint>
+			<cuepoint id="2" cuetime="103"> <![CDATA[When the children tell the teacher they need something to hold up the tubes, she doesn't solve the problem for them. She gives them encouragement to do the work on their own.]]> </cuepoint>
+		</cultureCuepoints>
+	</video>
+
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+	
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="3" mainelement="Kinesthetic Representation">
+    	<title>Make Your Body a Rough Piece of Wood</title>
+    	<area>Physical Science</area>
+    	<topic>Matter and Energy</topic>
+    	<bigidea>Constancy and Change</bigidea>
+    	<concept>Solids have properties and characteristics</concept>
+    	<students>K-1 Science</students>
+    	<story>Children have spent time using their senses to experience the different states of matter and have developed a scientific lexicon to describe the properties and characteristics of solids, liquids, and gases. After representing each state of matter by sketching, sculpting with clay, and using the computer, the teacher asks her students to use their bodies to represent different characteristics of a solid.</story>
+    	<standards> <![CDATA[1. Properties of materials can be observed, measured, and predicted. As a basis for understanding this concept:<li>Students know objects can be described in terms of the materials they are made of (e.g., clay, cloth, paper) and their physical properties (e.g., color, size, shape, weight, texture, flexibility, attraction to magnets, floating, sinking).</li>2. Materials come in different forms (states), including solids, liquids, and gases. As a basis for understanding this concept:<li>Students know solids, liquids, and gases have different properties.</li>]]> </standards>
+    	
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="1"> <![CDATA[Okay. Those are words, and I want to see how you make those words with your body. And that's going to be kind of tough.]]> </cuepoint>
+			<cuepoint id="1" cuetime="10"> <![CDATA[So, let's find a place on the ground again, let's see what we can do with our bodies.]]> </cuepoint>
+			<cuepoint id="2" cuetime="18"> <![CDATA[Okay. Let's see if you can guess what-- I am a piece of material, and I want to see if by looking at me, you can tell-- if you can describe me. Okay? Let's see here...]]> </cuepoint>
+			<cuepoint id="3" cuetime="33"> <![CDATA[I--]]> </cuepoint>
+			<cuepoint id="4" cuetime="34"> <![CDATA[Wait, not yet, I'm not ready yet. Watch. Are you ready?]]> </cuepoint>
+			<cuepoint id="5" cuetime="37"> <![CDATA[Yeah.]]> </cuepoint>
+			<cuepoint id="6" cuetime="42"> <![CDATA[A piece of wood?]]> </cuepoint>
+			<cuepoint id="7" cuetime="43"> <![CDATA[A piece of wood.]]> </cuepoint>
+			<cuepoint id="8" cuetime="44"> <![CDATA[A stick?]]> </cuepoint>
+			<cuepoint id="9" cuetime="45"> <![CDATA[Am I smooth? Am I bumpy? Am I rough? How would you describe me?]]> </cuepoint>
+			<cuepoint id="10" cuetime="50"> <![CDATA[Smooth.]]> </cuepoint>
+			<cuepoint id="11" cuetime="51"> <![CDATA[Smooth. So you see, with my body, I'm making myself very flat. You would say I'm smooth. But how about if I did this?]]> </cuepoint>
+			<cuepoint id="12" cuetime="61"> <![CDATA[Bumpy.]]> </cuepoint>
+			<cuepoint id="13" cuetime="62"> <![CDATA[I could be bumpy, what else?]]> </cuepoint>
+			<cuepoint id="14" cuetime="64"> <![CDATA[Rough.]]> </cuepoint>
+			<cuepoint id="15" cuetime="65"> <![CDATA[I could be rough, what else could I be?]]> </cuepoint>
+			<cuepoint id="16" cuetime="66"> <![CDATA[A stick?]]> </cuepoint>
+			<cuepoint id="17" cuetime="67"> <![CDATA[A stick is very what?]]> </cuepoint>
+			<cuepoint id="18" cuetime="68"> <![CDATA[Rough]]> </cuepoint>
+			<cuepoint id="19" cuetime="69"> <![CDATA[Rough and...]]> </cuepoint>
+			<cuepoint id="20" cuetime="71"> <![CDATA[Pointy.]]> </cuepoint>
+			<cuepoint id="20" cuetime="72"> <![CDATA[Do I look pointy? Drew, thank you! That's exactly what I wanted. Pointy!]]> </cuepoint>
+			<cuepoint id="21" cuetime="77"> <![CDATA[Okay, I would like to see... I would like to see a very rough piece of wood. Let me see. Make your bodies a rough piece of wood.]]> </cuepoint> 
+			<cuepoint id="22" cuetime="92"> <![CDATA[Let me see how you do. Wow! Drew is sticking out his hands there. And Yadira's got her knees up. Simone has her hands out. And look at-- Kikka's all crunched up.]]> </cuepoint>
+			<cuepoint id="23" cuetime="104"> <![CDATA[You look pretty rough to me. And look at that, this is great! Raymond, nice job! A rough piece of wood.]]> </cuepoint>
+			<cuepoint id="24" cuetime="112"> <![CDATA[Now I want you to make yourself a very pointy pencil. A pointy pointy pointy... On my goodness, Raymond's got his hands all the way up, so does Emma.]]> </cuepoint> 
+			<cuepoint id="25" cuetime="123"> <![CDATA[Some of you are lying down and pointing out. This is great! Point point point! Excellent job!]]> </cuepoint>
+		</subtitleCuepoints>
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="8"> <![CDATA[The teacher planned this additional experience with kinesthetic representation for children who needed reinforcement of their understanding of characteristics of solids.]]> </cuepoint>
+			<cuepoint id="1" cuetime="59"> <![CDATA[The teacher makes decisions about which characteristics of solids she will model and which ones she will ask the children to model based on her learning goals for the children and to highlight important contrasts.]]> </cuepoint>
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="17"> <![CDATA[Ample space is provided for children to move around freely.]]> </cuepoint>
+			<cuepoint id="1" cuetime="36"> <![CDATA[The teacher is using an empty auditorium for this lesson, but any space where children can move freely, such as part of a playground, would work.]]> </cuepoint>
+			<cuepoint id="2" cuetime="66"> <![CDATA[The children are able to observe the teachers' representations from different angles.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="8"> <![CDATA[Before creating kinesthetic representations, children have had experiences with the states of matter and developed a scientific lexicon to describe the properties and characteristics of solids, liquids and gases.]]> </cuepoint>
+			<cuepoint id="1" cuetime="30"> <![CDATA[The teacher's model creates a secondhand experience for the children to see the characteristics of the solid. This could be a reminder of the expository and fictional texts containing words such as "pointy," "rough" and "smooth" that the children read previously.]]> </cuepoint>
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="16"> <![CDATA[The teacher uses kinesthetic representation immediately following a discussion of words that describe some physical characteristics of matter.]]> </cuepoint>
+			<cuepoint id="1" cuetime="99"> <![CDATA[The teacher reinforces the scientific lexicon by using it to describe what she sees.]]> </cuepoint>
+			<cuepoint id="2" cuetime="125"> <![CDATA[Children are given the opportunity to observe other students' representations and to revise their own.]]> </cuepoint>
+		</representationCuepoints>	
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="53">  <![CDATA[Working with a small group of children creates a more immediate and intimate experience where all students have access to the teacher and the teacher can observe all the students.]]> </cuepoint>
+			<cuepoint id="1" cuetime="91">  <![CDATA[When the teacher names the students and verbally acknowledges their work, she makes them feel included and encourages their participation.]]> </cuepoint>
+			<cuepoint id="2" cuetime="106"> <![CDATA[Children are encouraged to observe each others' representations.]]> </cuepoint>
+		</cultureCuepoints>
+	</video>
+
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+	
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="4" mainelement="Oral Representation">
+    	<title>Water Wheels</title>
+    	<area>Physical Science</area>
+    	<topic>Matter and Energy</topic>
+    	<bigidea>Cause and Effect</bigidea>
+    	<concept>Force causes motion, Simple machines make work easier</concept>
+    	<students>K-1 Science</students>
+    	<story>After children have had multiple opportunities to use their bodies to create force and motion on the playground, the teacher gathers her students on the rug to read a book about these concepts. A passage about water wheels prompts a discussion.</story>
+    	<standards>The motion of objects can be observed and measured. As a basis for understanding this concept:&#10;  a.  Students know the position of an object can be described by locating it in relation to another object or to the background.&#10;  b. Students know an object's motion can be described by recording the change in position of the object over time.&#10;  c. Students know the way to change how something is moving is by giving it a push or a pull. The size of the change is related to the strength, or the amount of force, of the push or pull.&#10;  d. Students know tools and machines are used to apply pushes and pulls (forces) to make things move.&#10;e. Students know objects fall to the ground unless something holds them up.</standards>
+    	
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="1"> <![CDATA[Why does the water wheel move? Now don't call out, raise hands. Does anyone see?]]> </cuepoint> 
+			<cuepoint id="1" cuetime="4"> <![CDATA[What's making the water wheel move? Gabriel, what do you think?]]> </cuepoint>
+			<cuepoint id="2" cuetime="8"> <![CDATA[The water's pushing it.]]> </cuepoint>
+			<cuepoint id="3" cuetime="10"> <![CDATA[Do you hear what Gabriel says? No? The water, actually. The water comes down, and it catches.]]> </cuepoint> 
+			<cuepoint id="4" cuetime="16"> <![CDATA[And it turns. Hold on, sit down, on your bottoms. Gabriel already answered this. The water pushes the water wheel.]]> </cuepoint>
+			<cuepoint id="5" cuetime="25"> <![CDATA[I know some more. There are these cups, and then the water goes into the cups, and the water has gravity inside it, and the water pulls it down.]]> </cuepoint>
+			<cuepoint id="6" cuetime="37"> <![CDATA[So you've seen a water wheel before, is that what you're saying? So it had some cups, sort of, to catch the water?]]> </cuepoint>
+			<cuepoint id="7" cuetime="45"> <![CDATA[And then the water is like kind of tilting because the gravity of the water is pulling the water.]]> </cuepoint>
+			<cuepoint id="8" cuetime="53"> <![CDATA[So you're feeling like the water's pushing, but gravity's also playing a part somewhere in there, that there has to be gravity too.]]> </cuepoint> 
+			<cuepoint id="9" cuetime="60"> <![CDATA[Do people agree with Taera, that water and gravity may be part of what works here?]]> </cuepoint>
+			<cuepoint id="10" cuetime="65"> <![CDATA[But there's no cups there.]]> </cuepoint>
+			<cuepoint id="11" cuetime="67"> <![CDATA[This is different, there's no-- I can't really tell but it doesn't look like cups, but it's the same sort of--]]> </cuepoint>
+			<cuepoint id="12" cuetime="72"> <![CDATA[Like little flat surfaces.]]> </cuepoint>
+			<cuepoint id="13" cuetime="74"> <![CDATA[Little flat surfaces. So then the water comes down and hits the flat surfaces--]]> </cuepoint>
+			<cuepoint id="14" cuetime="78"> <![CDATA[And then it tilts.]]> </cuepoint>
+			<cuepoint id="15" cuetime="80"> <![CDATA[Do you see, Rose, how that works? Then the water hits another flat surface, and then another flat surface...]]> </cuepoint>
+			<cuepoint id="16" cuetime="83"> <![CDATA[I think that it actually, um, the water goes, um, slides off the edge--]]> </cuepoint>
+			<cuepoint id="17" cuetime="88"> <![CDATA[Alexandra and Sonny, Miles is speaking. It's not very kind to be doing something different. Focus your attention on Miles. Thank you.]]> </cuepoint>
+			<cuepoint id="18" cuetime="97"> <![CDATA[And the flat surface, the water actually slips off the edge onto the next one and then the next one and then...]]> </cuepoint>
+			<cuepoint id="19" cuetime="107"> <![CDATA[Ah... But is there movement? It is causing movement as well?]]> </cuepoint>
+			<cuepoint id="20" cuetime="110"> <![CDATA[Yes.]]> </cuepoint>
+			<cuepoint id="21" cuetime="111"> <![CDATA[Is the wheel moving? But the water doesn't stay on the flat surface, it moves down and hits another one,]]> </cuepoint> 
+			<cuepoint id="22" cuetime="115"> <![CDATA[but at the same time the wheel's moving, is that what you're saying?]]> </cuepoint>
+			<cuepoint id="23" cuetime="117"> <![CDATA[Yeah.]]> </cuepoint>
+			<cuepoint id="24" cuetime="119"> <![CDATA[Got it. Okay, so you've seen one! So Miles knows about these water wheels.]]> </cuepoint>
+		</subtitleCuepoints>
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="3">  <![CDATA[Notice that the teacher's questions are planned to take advantage of what this type of representation is good at - namely, getting at why and how the water makes the water wheel move.]]> </cuepoint>
+			<cuepoint id="1" cuetime="35"> <![CDATA[The teacher's original plan did not include focusing on water wheels. Children's interest provided an opportunity to make a meaningful connection with the concepts.]]> </cuepoint>
+			<cuepoint id="2" cuetime="75"> <![CDATA[A strong knowledge of the content helps teachers assess students' conceptual understanding, correct their misperceptions and guide them to the learning goals.]]> </cuepoint>
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="3">  <![CDATA[Ample rug space allows the children to assemble comfortably for a discussion. By sitting low to the ground, the teacher conveys a sense of sharing rather than testing.]]> </cuepoint>
+			<cuepoint id="1" cuetime="23"> <![CDATA[The teacher holds the book up and moves it around so that all the children can see it.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="3">   <![CDATA[Ample rug space allows the children to assemble comfortably for a discussion. By sitting low to the ground, the teacher conveys a sense of sharing rather than testing.]]> </cuepoint>
+			<cuepoint id="1" cuetime="119"> <![CDATA[Discussing prior experiences with water wheels helps build children's knowledge to create new understanding of the concepts.]]> </cuepoint>
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="37">  <![CDATA[Discussing text offers children the opportunity to increase their scientific lexicon and practice using it in context. The child's statement that "water has gravity in it" provides an assessment of the child's understanding. ]]> </cuepoint>
+			<cuepoint id="1" cuetime="65">  <![CDATA[The teacher facilitates the discussion by pointing out key ideas that the children have brought up and connecting their ideas to the concepts.]]> </cuepoint>
+			<cuepoint id="2" cuetime="121"> <![CDATA[Children have the opportunity to create new knowledge by building on their prior knowledge and experiences.]]> </cuepoint>
+		</representationCuepoints>
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="4">  <![CDATA[By posing a question and immediately saying, "Don't call out. Raise hands," the teacher creates an opportunity for children to think and gives everyone a chance to answer.]]> </cuepoint>
+			<cuepoint id="1" cuetime="8">  <![CDATA[Asking, "What do you think?" offers the child a platform for discussing his ideas.]]> </cuepoint>
+			<cuepoint id="2" cuetime="65"> <![CDATA[When the teacher asks if others agree with the student's idea, she helps build consensus but also leaves open the possibility for other thoughts.]]> </cuepoint>
+		</cultureCuepoints>
+	</video>
+
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="5" mainelement="Firsthand Experiences">
+    	<title>Simple Machines Make Work Easier</title>
+    	<area>Physical Science</area>
+    	<topic>Matter and Energy</topic>
+    	<bigidea>Systems</bigidea>
+    	<concept>Simple machines make work easier</concept>
+    	<students>K-1 Science</students>
+    	<story>The students are first asked to complete a set of tasks using only their hands. Then they are asked to complete the same tasks using small tools. This experience provides background knowledge on simple machines and how they make work easier.</story>
+    	<standards>The motion of objects can be observed and measured. As a basis for understanding this concept:&#10;  c.  Students know the way to change how something is moving is by giving it a push or a pull. The size of the change is related to the strength, or the amount of force, of the push or pull.&#10;  d. Students know tools and machines are used to apply pushes and pulls (forces) to make things move.&#10;  e. Students know objects fall to the ground unless something holds them up.</standards>
+    	
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="5"> <![CDATA[I'm not doing this one. I'm doing this one.]]> </cuepoint>
+			<cuepoint id="1" cuetime="8"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="2" cuetime="10"> <![CDATA[We have to use our strength.]]> </cuepoint>
+			<cuepoint id="3" cuetime="13"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="4" cuetime="17"> <![CDATA[We have to put it all the way in Ms. Levy? Ms. Levy, we have to put it all the way in?]]> </cuepoint>
+			<cuepoint id="5" cuetime="24"> <![CDATA[You've got to get it in as far as you can.]]> </cuepoint>
+			<cuepoint id="6" cuetime="27"> <![CDATA[No, you've just got to get it in.]]> </cuepoint>
+			<cuepoint id="7" cuetime="30"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="8" cuetime="35"> <![CDATA[Careful with that.]]> </cuepoint>
+			<cuepoint id="9" cuetime="36"> <![CDATA[Take only the machine that will make your job easier.]]> </cuepoint>
+			<cuepoint id="10" cuetime="40"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="11" cuetime="44"> <![CDATA[Now, you two, I want to make sure you don't go through.]]> </cuepoint>
+			<cuepoint id="12" cuetime="50"> <![CDATA[Now, can you get the nail out?]]> </cuepoint>
+			<cuepoint id="13" cuetime="53"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="14" cuetime="59"> <![CDATA[Like this!]]> </cuepoint>
+			<cuepoint id="15" cuetime="61"> <![CDATA[Okay, so what is this picture showing me?]]> </cuepoint>
+			<cuepoint id="16" cuetime="62"> <![CDATA[This is showing that I'm pulling it out with the hammer.]]> </cuepoint>
+			<cuepoint id="17" cuetime="65"> <![CDATA[Let me see. Okay...]]> </cuepoint>
+			<cuepoint id="18" cuetime="66"> <![CDATA[See, I'm pulling it out, and here it is.]]> </cuepoint>
+			<cuepoint id="19" cuetime="69"> <![CDATA[With the hammer. Okay. But where is your first one? Ah ha! That's with your hand.]]> </cuepoint>
+			<cuepoint id="20" cuetime="76"> <![CDATA[Okay, now then you're just going to remark underneath each one, where did you use the most energy?]]> </cuepoint>
+			<cuepoint id="21" cuetime="84"> <![CDATA[My muscles?]]> </cuepoint>
+			<cuepoint id="22" cuetime="85"> <![CDATA[Well, was it more energy for you using your hands? Was t wasier with the tool? Were you using--]]> </cuepoint>
+			<cuepoint id="23" cuetime="90"> <![CDATA[It was easier with the tool.]]> </cuepoint>
+			<cuepoint id="24" cuetime="91"> <![CDATA[Okay, so I need to know that. I need to know which one made your work easier.]]> </cuepoint>
+			<cuepoint id="25" cuetime="97"> <![CDATA[--Uhh, this one.<br>--Where did you use less energy? Okay?]]> </cuepoint>
+		</subtitleCuepoints>	
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="21"> <![CDATA[At first the teacher does not give the children the proper tools to make their work easier. Instead she has planned the experience so that children can discover firsthand how difficult it is to perform the task without simple machines.]]> </cuepoint>
+			<cuepoint id="1" cuetime="36"> <![CDATA[The teacher has chosen materials that illustrate the concept that simple machines make work easier. She provides a variety of materials and tools, such as clay, wood, hammers, nails and rolling pins.]]> </cuepoint>
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="10"> <![CDATA[The students' work is completed in small groups, where they can hear and see each others' activities.]]> </cuepoint>
+			<cuepoint id="1" cuetime="31"> <![CDATA[The tools are in a central place where all children can access them without assistance.]]> </cuepoint>
+			<cuepoint id="2" cuetime="57"> <![CDATA[The book on the table provides a ready source of information about simple machines that children can easily access.]]> </cuepoint>
+			<cuepoint id="3" cuetime="64"> <![CDATA[In both classrooms, teachers make use of the entire space, setting up small groups at tables and allowing children to move around as they pursue their work.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="3">  <![CDATA[First children are asked to work with wood and nails using only their hands.]]> </cuepoint>
+			<cuepoint id="1" cuetime="29"> <![CDATA[Next, the children will be given the opportunity to experience using tools to make work easier. As the children are beginning, the teacher will focus them on the task by reminding them of the concept.]]> </cuepoint>
+			<cuepoint id="2" cuetime="61"> <![CDATA[After the children have had the experience, the teacher will remind them again of the concept. Both the work assigned and the teacher's commentary ask the children to be explicit about the concept.]]> </cuepoint>		
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="70"> <![CDATA[The student uses text and drawing to represent her understanding that simple machines require less energy than doing the same task manually.]]> </cuepoint>
+			<cuepoint id="1" cuetime="91"> <![CDATA[The teacher talks with the student to help her reflect on the experience and link it to the concepts.]]> </cuepoint>
+		</representationCuepoints>
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="10"> <![CDATA[Working together in small groups, the children share their experiences and their observations.]]> </cuepoint>
+			<cuepoint id="1" cuetime="48"> <![CDATA[Notice that the teacher sits with the children, at their level, so he can engage them in conversation about their work.]]> </cuepoint>
+			<cuepoint id="2" cuetime="62"> <![CDATA[Notice that the children are trusted to use tools such as hammers and nails, and they use them responsibly. This is possible because the teachers have established routines to accustom children to working independently.]]> </cuepoint>
+		</cultureCuepoints>
+	</video>
+	
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="6" mainelement="Secondhand Experiences">
+    	<title>Rocks, Sand and Awesome Scientists</title>
+    	<area>Physical Science</area>
+    	<topic>Energy</topic>
+    	<bigidea>Systems</bigidea>
+    	<concept>Simple machines make work easier</concept>
+    	<students>K-1 Science</students>
+    	<story>To illustrate the concept "matter takes up space," the teacher gathers a small group of children for a demonstration, a secondhand experience.</story>
+    	<standards>Materials come in different forms (states), including solids, liquids, and gases. As a basis for understanding this concept:&#10;&nbsp;&nbsp;a. Students know solids, liquids, and gases have different properties.&#10;&nbsp;&nbsp;b. Students know the properties of substances can change when the substances are mixed, cooled, or heated.&#10;</standards>    	
+	
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="1"> <![CDATA[Is there space between the water?]]> </cuepoint>
+			<cuepoint id="1" cuetime="4"> <![CDATA[No.]]> </cuepoint>
+			<cuepoint id="2" cuetime="5"> <![CDATA[No, right?  There’s water all around, right?]]> </cuepoint>
+			<cuepoint id="3" cuetime="8"> <![CDATA[Yeah.]]> </cuepoint>
+			<cuepoint id="4" cuetime="9"> <![CDATA[Okay.]]> </cuepoint>
+			<cuepoint id="5" cuetime="10"> <![CDATA[But stuff can go in water.]]> </cuepoint>
+			<cuepoint id="6" cuetime="11"> <![CDATA[Is there space between the blobs?]]> </cuepoint>
+			<cuepoint id="7" cuetime="15"> <![CDATA[Look - is there space between the blobs?]]> </cuepoint>
+			<cuepoint id="8" cuetime="18"> <![CDATA[Yeah.]]> </cuepoint>
+			<cuepoint id="9" cuetime="19"> <![CDATA[There is?]]> </cuepoint>
+			<cuepoint id="10" cuetime="21"> <![CDATA[There's tiny holes.]]> </cuepoint>
+			<cuepoint id="11" cuetime="22"> <![CDATA[You're right. There's tiny holes.]]> </cuepoint>
+			<cuepoint id="12" cuetime="24"> <![CDATA[So let's see what happens.]]> </cuepoint>
+			<cuepoint id="13" cuetime="26"> <![CDATA[We're going to do it a little bit at a time so we can see what happens]]> </cuepoint>
+			<cuepoint id="14" cuetime="33"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="15" cuetime="36"> <![CDATA[Uh oh.  Wait.  What's happening?]]> </cuepoint>
+			<cuepoint id="16" cuetime="40"> <![CDATA[They're sinking.]]> </cuepoint>
+			<cuepoint id="17" cuetime="41"> <![CDATA[What's sinking?]]> </cuepoint>
+			<cuepoint id="18" cuetime="43"> <![CDATA[The rocks.]]> </cuepoint>
+			<cuepoint id="19" cuetime="45"> <![CDATA[What else is happening? Look.]]> </cuepoint>
+			<cuepoint id="20" cuetime="47"> <![CDATA[It's moving space for the--]]> </cuepoint>
+			<cuepoint id="21" cuetime="49"> <![CDATA[Yeah. The sand's going up. It looks like it's going up, the sand's going up. Because otherwise you'd see more of the rocks.]]> </cuepoint>
+			<cuepoint id="22" cuetime="57"> <![CDATA[Remember how Liam said there's little spaces between the pebbles?]]> </cuepoint>
+			<cuepoint id="23" cuetime="62"> <![CDATA[Yeah. That's what I did.]]> </cuepoint>
+			<cuepoint id="24" cuetime="63"> <![CDATA[What is the sand doing?]]> </cuepoint>
+			<cuepoint id="25" cuetime="66"> <![CDATA[Going in it.]]> </cuepoint>
+			<cuepoint id="26" cuetime="67"> <![CDATA[Going in it!]]> </cuepoint>
+			<cuepoint id="27" cuetime="68"> <![CDATA[It's occupying the space that was between-- And what's happening to what was in be-- What was in those holes, beween the pebbles?]]> </cuepoint>
+			<cuepoint id="28" cuetime="79"> <![CDATA[Glass?]]> </cuepoint>
+			<cuepoint id="29" cuetime="80"> <![CDATA[What was in those little holes? Glass? What do you think?]]> </cuepoint>
+			<cuepoint id="30" cuetime="83"> <![CDATA[Air.]]> </cuepoint>
+			<cuepoint id="31" cuetime="84"> <![CDATA[Air! And what is the sand doing?]]> </cuepoint>
+			<cuepoint id="32" cuetime="87"> <![CDATA[Going in it.]]> </cuepoint>
+			<cuepoint id="33" cuetime="90"> <![CDATA[It's moving the air to fill the space in between the marbles.]]> </cuepoint>
+			<cuepoint id="34" cuetime="98"> <![CDATA[Let's try the water.]]> </cuepoint>
+			<cuepoint id="35" cuetime="99"> <![CDATA[Let's try the water!]]> </cuepoint>
+			<cuepoint id="36" cuetime="100"> <![CDATA[Chelsea is going to be our finger meter. She is going to measure.]]> </cuepoint>
+			<cuepoint id="37" cuetime="105"> <![CDATA[Put your finger right there, Chelsea, at the line of the water. Move over a little bit.]]> </cuepoint>
+			<cuepoint id="38" cuetime="111"> <![CDATA[Okay? At the line of the water, right there. Okay?]]> </cuepoint>
+			<cuepoint id="39" cuetime="114"> <![CDATA[And we are going to see what happens when we put in our blobs. Ready?]]> </cuepoint>
+			<cuepoint id="40" cuetime="123"> <![CDATA[The rocks are going to sink.]]> </cuepoint>
+			<cuepoint id="41" cuetime="127"> <![CDATA[What happened? Don't move your finger, Chelsea! Don't move it! What's happening?]]> </cuepoint>
+			<cuepoint id="42" cuetime="131"> <![CDATA[The rocks are sinking.]]> </cuepoint>
+			<cuepoint id="43" cuetime="132"> <![CDATA[Why?]]> </cuepoint>
+			<cuepoint id="44" cuetime="133"> <![CDATA[The rocks are too heavy.]]> </cuepoint>
+			<cuepoint id="45" cuetime="135"> <![CDATA[Now I want you to see Chelsea's finger, and what's happening.]]> </cuepoint>
+			<cuepoint id="46" cuetime="142"> <![CDATA[It's getting bigger.]]> </cuepoint>
+			<cuepoint id="47" cuetime="143"> <![CDATA[What's getting bigger?]]> </cuepoint>
+			<cuepoint id="48" cuetime="144"> <![CDATA[The water.]]> </cuepoint>
+			<cuepoint id="49" cuetime="145"> <![CDATA[The water.  The word-- I like what you're thinking: "bigger."]]> </cuepoint>
+			<cuepoint id="50" cuetime="149"> <![CDATA[It's getting higher. <i>Esta subiendo, verdad Alexis?</i> Here we go.]]> </cuepoint>
+			<cuepoint id="51" cuetime="158"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="52" cuetime="163"> <![CDATA[Now look at where Chelsea's finger is at. Can you see? If you can't see, stand up and come look at it.]]> </cuepoint>
+			<cuepoint id="53" cuetime="171"> <![CDATA[You see where her finger's at? Where's the water at now? What happened to the water?]]> </cuepoint>
+		</subtitleCuepoints>
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="20"> <![CDATA[The teacher has structured the introduction of the concepts so that children first made predictions and now are engaging in a secondhand experience. This helps give the children an investment in the experiment as they watch to see how their predictions compare to the results.]]> </cuepoint>
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="9">   <![CDATA[The group sits in a circle, which encourages discussion and interaction.]]> </cuepoint>
+			<cuepoint id="1" cuetime="30">  <![CDATA[The demonstration uses simple and inexpensive materials--rocks, sand, marbles, water and glass jars.]]> </cuepoint>
+			<cuepoint id="2" cuetime="171"> <![CDATA[The children are encouraged to move around the space and to position themselves so they can closely observe the rocks and water.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="9">   <![CDATA[The teacher gathers the children for a secondhand experience, which helps make the science concepts more memorable because they can see the way the physical principles play out.]]> </cuepoint>
+			<cuepoint id="1" cuetime="14">  <![CDATA[The teacher asks lots of questions to engage children's attention and focus the experience on the concepts.]]> </cuepoint>
+			<cuepoint id="2" cuetime="40">  <![CDATA[Asking "What's happening?" cues the children to observe closely and helps them develop analytical skills.]]> </cuepoint>	
+			<cuepoint id="3" cuetime="129"> <![CDATA[The animation in the teacher's voice helps engage the children in the secondhand experience. In secondhand experiences, teachers have to work harder to summon children's attention. This is different from firsthand experiences, where the tension is built into the experience.]]> </cuepoint>			
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="9">  <![CDATA[Before the demonstration, the teacher asked the children to predict what would happen and to create 2-D representations of their thinking.]]> </cuepoint>
+			<cuepoint id="1" cuetime="64"> <![CDATA[Notice how the child refers to his drawing and says, "That's what I did." Children have their 2-D representations in front of them and can refer to them as they watch the experiment and make observations.]]> </cuepoint>		
+		</representationCuepoints>
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="24">  <![CDATA[As the teacher conducts the experiment, she asks the children to share their ideas and observations. Fostering a classroom culture in which students are expected to take turns and to listen actively and respectfully encourages participation.]]> </cuepoint>
+			<cuepoint id="1" cuetime="61">  <![CDATA[Notice that the teacher refers back to the child's comment, mentioning him by name. In an effective classroom ecosystem, teachers and children are partners in the learning process and build off each others' ideas.]]> </cuepoint>
+			<cuepoint id="2" cuetime="139"> <![CDATA[Notice that the children are free to sit comfortably, and some even lie on the floor. Well established routines and expectations for behavior make it possible for the group to work in this way. By encouraging children to move around so they can see, the teacher helps deepen the children's engagement in the experience.]]> </cuepoint>
+		</cultureCuepoints>
+	</video>
+	
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="7" mainelement="Thirdhand Experiences">
+    	<title>What is the World Made Of?</title>
+    	<area>Physical Science</area>
+    	<topic>Matter</topic>
+    	<bigidea>Change</bigidea>
+    	<concept>Matter comes in different states</concept>
+    	<students>K-1 Science</students>
+    	<story>Two K-1 classrooms, one bilingual and one monolingual, gather to listen to a reading about the different states of matter.</story>
+    	<standards>Properties of materials can be observed, measured, and predicted. As a basis for understanding this concept:&#10;  b. Students know water can be a liquid or a solid and can be made to change back and forth from one form to the other.&#10; Materials come in different forms (states), including solids, liquids, and gases. As a basis for understanding this concept:&#10; a. Students know solids, liquids, and gases have different properties.</standards>
+    	
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="3"> <![CDATA[This book is called <i>What is the World Made Of?</i>]]> </cuepoint>
+			<cuepoint id="1" cuetime="9"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="2" cuetime="12"> <![CDATA["Have you ever seen anyone walk through a wall?"]]> </cuepoint>
+			<cuepoint id="3" cuetime="17"> <![CDATA[Huh?]]> </cuepoint>
+			<cuepoint id="4" cuetime="18"> <![CDATA["Hi! I can walk through a wall!"]]> </cuepoint>
+			<cuepoint id="5" cuetime="21"> <![CDATA[I can't see it.]]> </cuepoint>
+			<cuepoint id="6" cuetime="22"> <![CDATA["Walls, and blocks, and dolls, are all--" what?]]> </cuepoint>
+			<cuepoint id="7" cuetime="30"> <![CDATA[Solids.]]> </cuepoint>
+			<cuepoint id="8" cuetime="31"> <![CDATA[Very good! Say it louder.]]> </cuepoint>
+			<cuepoint id="9" cuetime="33"> <![CDATA[Solids!]]> </cuepoint>
+			<cuepoint id="10" cuetime="35"> <![CDATA["Milk, and lemonade, are--" what?]]> </cuepoint>
+			<cuepoint id="11" cuetime="39"> <![CDATA[Liquids.]]> </cuepoint>
+			<cuepoint id="12" cuetime="41"> <![CDATA["Rocks, and trees, are--"]]> </cuepoint>
+			<cuepoint id="13" cuetime="44"> <![CDATA[Solid.]]> </cuepoint>
+			<cuepoint id="14" cuetime="46"> <![CDATA[But all of those things are called something that starts with an <i>mmm</i> sound.]]> </cuepoint>
+			<cuepoint id="15" cuetime="51"> <![CDATA[Nature?]]> </cuepoint>
+			<cuepoint id="16" cuetime="52"> <![CDATA[What is it called? Say it. Mat--]]> </cuepoint>
+			<cuepoint id="17" cuetime="55"> <![CDATA[Matter!]]> </cuepoint>
+			<cuepoint id="18" cuetime="56"> <![CDATA[Matter! Liquids and solids are all something that's called matter. And I'm going to tell you what that is.]]> </cuepoint> 
+			<cuepoint id="19" cuetime="64"> <![CDATA["The air in the breeze that blows the leaves. Water flowing in the creek. Everything on earth is made of <i>matter</i>. Lucky for us, it is easy to tell that all matter is not alike.]]> </cuepoint>
+			<cuepoint id="20" cuetime="82"> <![CDATA["Matter comes in three ways. It comes like solids, like blocks and rocks. It comes like liquids, like milk and lemonade.]]> </cuepoint>
+			<cuepoint id="21" cuetime="93"> <![CDATA[And then it comes in another way--" that we haven't talked about yet.]]> </cuepoint>
+			<cuepoint id="22" cuetime="96"> <![CDATA[--What is it, Francine?<br>--Gases.]]> </cuepoint>
+			<cuepoint id="23" cuetime="98"> <![CDATA[Gas. What's a gas?]]> </cuepoint>
+			<cuepoint id="24" cuetime="100"> <![CDATA[It's like the air.]]> </cuepoint>
+			<cuepoint id="25" cuetime="102"> <![CDATA[Go like this. Go like this. Take your hand and go like this.]]> </cuepoint>
+			<cuepoint id="26" cuetime="105"> <![CDATA[I feel a gas.]]> </cuepoint>
+			<cuepoint id="27" cuetime="108"> <![CDATA[That's a gas. So even though we can't see the air in here, do you think there is a lot of air in this room?]]> </cuepoint>
+			<cuepoint id="28" cuetime="118"> <![CDATA[Yes.]]> </cuepoint>
+		</subtitleCuepoints>
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="21"> <![CDATA[In her planning, the teacher decided to read the book between firsthand and secondhand experiences to both reinforce and foreshadow the experiences. In this case, she's using the book to help focus on the scientific lexicon of the states of matter.]]> </cuepoint>
+			<cuepoint id="1" cuetime="99"> <![CDATA[The teacher does an initial assessment of the students' background knowledge of gas as one of the states of matter.]]> </cuepoint>		
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="34"> <![CDATA[With thirdhand experiences it is possible to gather children in larger groups. However, it is necessary to work harder to focus children's attention. The animation in the teacher's voice helps engage the children in the thirdhand experience.]]> </cuepoint>
+			<cuepoint id="1" cuetime="45"> <![CDATA[The whole-group area is large enough for two classrooms to sit together comfortably. This was achieved by pushing away some of the furniture temporarily.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="6">   <![CDATA[The teacher uses a thirdhand experience, reading a book about the states of matter, to reinforce what the children have learned through firsthand experiences.]]> </cuepoint>
+			<cuepoint id="1" cuetime="34">  <![CDATA[The animation in the teacher's voice helps engage the children in the thirdhand experience. In thirdhand experiences teachers have to work harder to summon children's attention. This is different from firsthand experiences, where the tension is built into the experience.]]> </cuepoint>
+			<cuepoint id="2" cuetime="57">  <![CDATA[To highlight and bring attention to the concepts and the scientific lexicon, the teacher uses inflection and asks the children questions.]]> </cuepoint>
+			<cuepoint id="3" cuetime="115"> <![CDATA[Although the concept of gas as one of the states of matter has been introduced through a thirdhand experience, the students have a frame of reference from the many firsthand experiences they have had with solids and liquids.]]> </cuepoint>		
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="17"> <![CDATA[With the exception of the teacher inviting children to call out words, children are not creating representations here. Their learning and practicing the scientific lexicon will support their later representation.]]> </cuepoint>
+		</representationCuepoints>
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="45"> <![CDATA[Bringing the children together in a large group allows them to share their experiences and knowledge as they discuss the book. Later, when they work in small groups, they can refer back to their shared experience of the story.]]> </cuepoint>
+			<cuepoint id="1" cuetime="62"> <![CDATA[The teacher uses questions to engage the children in the story and focus their attention on the crucial information at the right moments. Having the children assist in reading the material helps reinforce their understanding of the concept.]]> </cuepoint>
+		</cultureCuepoints>
+	</video>
+	
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="8" mainelement="Teacher-Student Culture">
+    	<title>Alex Being Forthright - and Mistaken</title>
+    	<area>Physical Science</area>
+    	<topic>Kinetic and Potential Energy</topic>
+    	<bigidea>Cause and Effect</bigidea>
+    	<concept>Energy is stored and energy is released</concept>
+    	<students>K-1 Science</students>
+    	<story>In the sequence before this video begins, the teacher had asked children to label their roller coaster at the points where the ball achieves maximum kinetic and potential energy. When Alex explains his placement of the labels, it becomes apparent that he is confusing velocity with the distinction between kinetic and potential energy. The teacher recognizes this and makes a plan to help him refine his understanding. (For more on how she and her colleague re-teach the concepts to clear up the misconceptions, go to the Example Video in Flexible Planning.)</story>
+    	<standards>The concepts here go beyond the standards, but it was important to address them because they came up in the context of the project.</standards>
+    	
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="1"> <![CDATA[Okay, let’s see what he’s got here. Alex, you gotta explain that.]]> </cuepoint>
+			<cuepoint id="1" cuetime="04"> <![CDATA[This is kinetic energy, because potential energy is energy that is gaining energy, and kinetic is leaving energy.]]> </cuepoint>
+			<cuepoint id="2" cuetime="15"> <![CDATA[So why’d you choose to show it as it’s going down?]]> </cuepoint>
+			<cuepoint id="3" cuetime="18"> <![CDATA[Because it's losing speed.]]> </cuepoint>
+			<cuepoint id="4" cuetime="21"> <![CDATA[It's losing speed... okay...]]> </cuepoint>
+			<cuepoint id="5" cuetime="24"> <![CDATA[Even though it is gaining speed, it's losing speed.]]> </cuepoint>
+			<cuepoint id="6" cuetime="27"> <![CDATA[Even though it's what? Even though you feel as--]]> </cuepoint>
+			<cuepoint id="7" cuetime="29"> <![CDATA[It's gaining speed, not losing speed.]]> </cuepoint>
+			<cuepoint id="8" cuetime="32"> <![CDATA[When is it gaining speed, Alex?]]> </cuepoint>
+			<cuepoint id="9" cuetime="34"> <![CDATA[When it goes downhill.]]> </cuepoint>
+			<cuepoint id="10" cuetime="36"> <![CDATA[Is it really gaining speed as it goes down? Or is it--]]> </cuepoint>
+			<cuepoint id="11" cuetime="39"> <![CDATA[Yeah.]]> </cuepoint>
+			<cuepoint id="12" cuetime="40"> <![CDATA[It's gaining speed, because if it was losing speed, it would stop.]]> </cuepoint>
+			<cuepoint id="13" cuetime="44"> <![CDATA[--I know.<br>--It would stop.]]> </cuepoint>
+			<cuepoint id="14" cuetime="45"> <![CDATA[They had stickers that said "potential energy," one of them said, and the other one said "kinetic."]]> </cuepoint>	
+			<cuepoint id="15" cuetime="49"> <![CDATA[So, Alex put the one that said "potential energy" right here. And he explained to me, why did you put it right here Alex?]]> </cuepoint>
+			<cuepoint id="16" cuetime="59"> <![CDATA[Because it looks like it’s losing energy when it’s going up. And then it’s gaining energy when it’s going down.]]> </cuepoint>
+			<cuepoint id="17" cuetime="70"> <![CDATA[Is that what's happening?]]> </cuepoint>
+			<cuepoint id="18" cuetime="73"> <![CDATA[No.]]> </cuepoint>
+			<cuepoint id="19" cuetime="74"> <![CDATA[What's happening, Brendan?]]> </cuepoint>
+			<cuepoint id="20" cuetime="75"> <![CDATA[It's gaining speed when it's going up and it's losing speed when it's going down.]]> </cuepoint>
+			<cuepoint id="21" cuetime="80"> <![CDATA[Okay, but that's confusing. Amahd said "How could that happen? When it's going down it's going faster. So how is it losing speed?"]]> </cuepoint>
+			<cuepoint id="22" cuetime="88"> <![CDATA[I want you to try and explain that to me a little bit. Explain that to me, about if you're confused about that, or if you understand it. Brendan.]]> </cuepoint>
+			<cuepoint id="23" cuetime="96"> <![CDATA[That is going very fast because it has something pushing it up instead, so it's gaining also energy while it's getting pushed up.]]> </cuepoint>
+			<cuepoint id="24" cuetime="104"> <![CDATA[And when it's going down, it loses speed because it like has turns and stuff.]]> </cuepoint>
+			<cuepoint id="25" cuetime="113"> <![CDATA[Okay. Maybe someone can explain it to me in another way. Okay? Bren, that was a good explanation.]]> </cuepoint>
+		</subtitleCuepoints>
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="5">   <![CDATA[The idea to build a roller coaster was generated by the children. The teachers did careful planning to align the project with the concepts and big ideas.]]> </cuepoint>
+			<cuepoint id="1" cuetime="17">  <![CDATA[The teacher planned this time to work with a small group of students to assess their understanding of the concepts of kinetic and potential energy. Meanwhile, a teaching assistant and a parent volunteer work with the other children on another aspect of the roller coaster project.]]> </cuepoint>
+			<cuepoint id="2" cuetime="49">  <![CDATA[After realizing the students in the small group were confused about the concepts, the teacher brought the discussion to the whole group. This required flexibility in planning and a willingness to allow the children's needs to influence the course of instruction.]]> </cuepoint>
+			<cuepoint id="3" cuetime="118"> <![CDATA[After this discussion, the teacher will do additional planning with her colleagues to clarify her own understanding of the scientific concepts and determine how best to clarify them for the students.]]> </cuepoint>
+
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="3">  <![CDATA[When setting up a large project, consider all aspects of the learning environment. Using outdoor space, when possible, provides opportunities for small group work and allows for in-depth, uninterrupted discussion.]]> </cuepoint>
+			<cuepoint id="1" cuetime="15"> <![CDATA[Throughout the work space, resources are accessible to all the children. Note the canisters of building materials on the countertop. When the camera zooms out, notice the paint bottles to the left of the sink and the materials in storage tables at the far right. These important supplies are stored at children's height and are available as they need them.]]> </cuepoint>
+			<cuepoint id="2" cuetime="32"> <![CDATA[The roller coaster is mounted on the outside of the classroom windows and remains there for the duration of the project. Displaying on-going work helps stimulate thinking, creativity and discussion, and integrates the project into the life of the classroom.]]> </cuepoint>
+			<cuepoint id="3" cuetime="44"> <![CDATA[Notice the photos displayed behind the roller coaster. They tell the story of the project thus far. Displaying documentation of the group's planning and thinking process provides context for the project, gives teachers and children opportunities for reflection, and offers parents a way to connect with the children's work.]]> </cuepoint>
+			<cuepoint id="4" cuetime="57"> <![CDATA[Student work, including paintings depicting force and motion, is displayed prominently in the classroom. The displays help stimulate thinking, create dialogue and convey that the children's work is valued.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="3">  <![CDATA[The children began building the roller coaster toward the end of the school year, but they had been building knowledge of the concepts since September. For example, a trip to a local amusement park allowed the children to explore the concepts of force and motion and kinetic and potential energy through firsthand experiences with roller coasters.]]> </cuepoint>
+			<cuepoint id="1" cuetime="8">  <![CDATA[The students have firsthand experiences as they use the roller coaster model to apply their knowledge of the concepts.]]> </cuepoint>
+			<cuepoint id="2" cuetime="95"> <![CDATA[The children are able to discuss scientific ideas because they have had many experiences throughout the year that were designed to familiarize them with the concepts. These included building and testing model inclined planes and experimenting with simple machines.]]> </cuepoint>
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="15">  <![CDATA[Using their knowledge of the concepts, the students have built a 3-D working model of a roller coaster.  A student uses text to label the roller coaster where he thinks kinetic and potential energy are at work.]]> </cuepoint>
+			<cuepoint id="1" cuetime="35">  <![CDATA[As the student explains his reasoning for labeling the parts of the roller coaster, he finds he is confused about the concepts. Having children talk about their work is an excellent way to assess their understanding and provides an opportunity to clarify the concepts.]]> </cuepoint>
+			<cuepoint id="2" cuetime="57">  <![CDATA[Notice the paintings displayed above and to the right of the white board. They are 2-D representations of the children's understanding of force and motion.]]> </cuepoint>
+			<cuepoint id="3" cuetime="116"> <![CDATA[Giving children the opportunity to represent their thinking in different ways—i.e., orally, by drawing and painting, and by building a 3-D model—helps children understand the <i>how, what</i> and <i>why</i> of a concept. It also offers multiple entry points to accommodate different learning styles.]]> </cuepoint>
+		</representationCuepoints>	
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="3">   <![CDATA[Notice the teacher's request: "Alex, you gotta explain that." Without a lot of prior work on making it safe to say what you think when the teacher asks, this request would be intimidating to a child.]]> </cuepoint>
+			<cuepoint id="1" cuetime="14">  <![CDATA[Notice that Alex is comfortable expressing his ideas. Although he is slightly wrong about the concepts, discussing them will help him refine his understanding and work toward a notion of potential energy being gained or lost as it trades off with kinetic energy (energy of motion).]]> </cuepoint>
+			<cuepoint id="2" cuetime="29">  <![CDATA[The teacher realizes there is something that doesn't add up, but she doesn't tell the child he's wrong or correct him. Instead she tries to help him clarify his understanding by engaging him in dialogue.]]> </cuepoint>
+			<cuepoint id="3" cuetime="32">  <![CDATA[Now the child realizes he isn't right, but he is still being candid. Although the stakes for embarassment are higher, he still says what he thinks. An effective classroom culture values learning as a process and allows children to revise their thinking through discussion and interaction.]]> </cuepoint>
+			<cuepoint id="4" cuetime="45">  <![CDATA[Note that the teacher could have let the misconception pass, but she doesn't. Because she has established the classroom as a socially safe environment, she knows she can engage the whole group in the discussion.]]> </cuepoint>
+			<cuepoint id="5" cuetime="70">  <![CDATA[Alex is saying that the message ball is gaining kinetic energy when it is going down. Notice he is still willing to share his ideas openly, even when he is in front of the whole class. Notice, too, that everyone is respectful as he speaks.]]> </cuepoint>
+			<cuepoint id="6" cuetime="80">  <![CDATA[Here the teacher has noticed another child has something to say. Together the teacher and children construct a discussion in which children say what they think and no one attacks their ideas or pokes fun. The clear message is that the classroom is a safe place where thoughts can be expressed without negative consequences.]]> </cuepoint>
+			<cuepoint id="7" cuetime="89">  <![CDATA[Notice how the teacher picks up on the child's question, "When it's going down it's going faster. So how is it losing speed?" When the teacher says, "That's confusing," she underscores the dissonance between the ideas and models how to think through a problem.]]> </cuepoint>
+			<cuepoint id="8" cuetime="95">  <![CDATA[As discussions and re-teaching continue, the teacher will use what the children are saying to distinguish between speed and total energy and between kinetic and potential energy.]]> </cuepoint>
+			<cuepoint id="9" cuetime="116"> <![CDATA[For more about the story of the roller coaster, go to the Flexible Planning video, which shows how the teachers did research to clarify their understanding of kinetic and potential energy and then brought the information to the children.]]> </cuepoint>
+		</cultureCuepoints>
+	</video>
+
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="9" mainelement="Space Setup">
+    	<title>Classroom Space</title>
+    	<area>Physical Science</area>
+    	<topic>Various</topic>
+    	<bigidea>Various</bigidea>
+    	<concept>Various</concept>
+    	<students>K-3 Science</students>
+    	<story>This video depicts a variety of ways to set up the classroom space for teaching science for young children. Classroom space should be adaptable to support the science content and children's evolving ideas.</story>
+    	<standards>Various Physical Science standards</standards>  
+		
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="10"> <![CDATA[--]]> </cuepoint>
+			<cuepoint id="1" cuetime="20"> <![CDATA[--]]> </cuepoint>
+			<cuepoint id="2" cuetime="30"> <![CDATA[--]]> </cuepoint>
+		</subtitleCuepoints>
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="5"> <![CDATA[With a variety of spatial configurations, children can work on different aspects of a collaborative project simultaneously. In planning a project, it is important to think ahead about different ways the space--both inside and outside the classroom--can support the project.]]> </cuepoint>
+			<cuepoint id="1" cuetime="40"> <![CDATA[Setting up the classroom to support a variety of activities requires formal planning.  However, the more flexible the setup, the more effective it will be in adapting and responding to the needs of children and the ways in which they learn.]]> </cuepoint>
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="5"> <![CDATA[The strategic arrangement of cabinets and bookcases provides a space for children's imaginary play, a key component of young children's learning. ]]> </cuepoint>
+			<cuepoint id="1" cuetime="19"> <![CDATA[The positioning of students' large-scale creations (such as the blue Totem Pole) can help divide the classroom space and also provides a display of children's work.]]> </cuepoint>
+			<cuepoint id="2" cuetime="28"> <![CDATA[A cozy space for reading (the sofa and coffee table seen here) helps make the classroom more appealing and bridges the transition from home to school.]]> </cuepoint>
+			<cuepoint id="3" cuetime="38"> <![CDATA[A large area rug is used for whole-group learning and class discussions. It also offers a space for children to spread out while working independently. Tables and chairs (in the background on the left) provide an area for small groups to work together.]]> </cuepoint>
+			<cuepoint id="4" cuetime="58"> <![CDATA[Looking at a bird's-eye view of the learning environment you just watched may help you understand how space can be arranged effectively to maximize the learning potential of your classroom.]]> </cuepoint>
+			<cuepoint id="5" cuetime="61"> <![CDATA[To see a full-resolution version of this floorplan, go to the main CEE site, under Resources > Classroom Setup > Classroom Space Floorplan.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="29"> <![CDATA[Including lots of books and comfortable reading spaces in the classroom setup encourages children to explore reading materials that support their firsthand and secondhand experiences.]]> </cuepoint>
+			<cuepoint id="1" cuetime="37"> <![CDATA[Classrooms should be arranged so that relevant reading materials are readily accessible to children.]]> </cuepoint>
+			<cuepoint id="2" cuetime="43"> <![CDATA[A large area rug provides a comfortable space for children to share a secondhand experience such as watching a video.]]> </cuepoint>
+			<cuepoint id="3" cuetime="51"> <![CDATA[Incorporating computers into the classroom space, when possible, helps facilitate children's access to secondhand experiences, such as looking at photos or websites chosen by the teacher.]]> </cuepoint>
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="7"> <![CDATA[Children represent their understanding of concepts through dramatic play.  Designating space for this kind of learning encourages children's imaginations and allows teachers to assess understanding.]]> </cuepoint>
+			<cuepoint id="1" cuetime="17"> <![CDATA[Children's 3-D representation of a totem pole positioned in the classroom provides a reminder of the process and physical principles of construction, such as gravity, weight and balance.]]> </cuepoint>
+			<cuepoint id="2" cuetime="45"> <![CDATA[A large clear space provides an area for kinesthetic representation. It also offers a gathering space for oral representation through discussion. Both provide opportunities for teachers to assess children's understanding.]]> </cuepoint>
+			<cuepoint id="3" cuetime="52"> <![CDATA[Incorporating computers into the classroom space, when possible, gives children an additional medium for 2-D representation.]]> </cuepoint>
+		</representationCuepoints>	
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="3"> <![CDATA[Areas designed for small groups encourage student interactions and the development of positive social skills.  This helps create a classroom culture where children feel comfortable exchanging ideas. ]]> </cuepoint>
+			<cuepoint id="1" cuetime="11"> <![CDATA[By moving about the room and checking in with children, the teacher helps them develop independence while also fostering a culture of respect and responsibility.]]> </cuepoint>
+			<cuepoint id="2" cuetime="41"> <![CDATA[Providing children with a comfortable, inviting environment lets them know that they are valued and encourages their cooperative participation in the learning community.]]> </cuepoint>
+		</cultureCuepoints>	
+	</video>
+
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="10" mainelement="Display Setup">
+    	<title>Classroom Displays</title>
+    	<area>Physical Science</area>
+    	<topic>Various</topic>
+    	<bigidea>Various</bigidea>
+    	<concept>Various</concept>
+    	<students>K-3 Science</students>
+    	<story>This video depicts a variety of ways that classroom displays support the teaching of science for young children. Classroom displays should adapt to reflect the science content and children's evolving ideas.</story>
+    	<standards>Various Physical Science standards</standards> 
+		
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="10"> <![CDATA[--]]> </cuepoint>
+			<cuepoint id="1" cuetime="20"> <![CDATA[--]]> </cuepoint>
+			<cuepoint id="2" cuetime="30"> <![CDATA[--]]> </cuepoint>
+		</subtitleCuepoints>
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="4"> <![CDATA[Teachers should look beyond decoration and plan meaningful and functional displays that change along with the classroom.]]> </cuepoint>
+			<cuepoint id="1" cuetime="31"> <![CDATA[Coming up with ways to include hands-on displays should be a part of the formal planning of classroom activities.  To correspond with a unit about friction, teachers arranged for classroom families to donate simple materials like sand and scraps of fabric, which were glued to cardboard and displayed on a table to promote student engagement with the concepts.]]> </cuepoint>
+			<cuepoint id="2" cuetime="44"> <![CDATA[Teachers planned for their students' 2D and 3D representations of textures to also function as a stimulating wall display.]]> </cuepoint>
+			<cuepoint id="3" cuetime="83"> <![CDATA[Plan to take pictures of your students engaged in class projects. These photos can help children and teachers to reflect on their work, and they also help parents be informed members of the classroom community.]]> </cuepoint>
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="4"> <![CDATA[Classroom displays should be dynamic spaces for student work, as well as for thought-provoking objects that inspire children's thinking.]]> </cuepoint>
+			<cuepoint id="1" cuetime="17"> <![CDATA[A table displaying hands-on books and materials becomes an interactive display designed to attract attention and encourage students' engagement.]]> </cuepoint>
+			<cuepoint id="2" cuetime="38"> <![CDATA[Look for ways to allow individual and collaborative student projects to be the focus of your classroom display.  Here, students used clay to represent words that describe characteristics of matter.  The individual pieces are arranged to create a visual "chart" that supports students' thinking.]]> </cuepoint>
+			<cuepoint id="3" cuetime="51"> <![CDATA[Keeping display boards simple and uncluttered allows children's work to be the focus. A bulletin board covered with busy patterns and colors can detract from the integrity of children's work.]]> </cuepoint>
+			<cuepoint id="4" cuetime="76"> <![CDATA[Documenting learning processes and ongoing projects can also be an important part of classroom display.  It encourages students to reflect on their thought processes and past work.  Documentary display also allows teachers to reflect upon their practice. ]]> </cuepoint>
+			<cuepoint id="5" cuetime="113"> <![CDATA[Allowing ongoing projects to remain a part of the classroom display inspires children to continue thinking about the material throughout the school day. The presence of the rollercoaster on the outside windows of the classroom encourages children to discuss possible additions or changes, and keeps the concepts fresh in their minds.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="11"> <![CDATA[Including books, posters, and 3D objects in your classroom displays provides children with experiences related to the curricular concepts. Here, teachers have set out simple inclined planes, small blocks of various shapes, and surfaces with different textures for children to explore, providing them with firsthand experiences.]]> </cuepoint>
+			<cuepoint id="1" cuetime="17"> <![CDATA[Including reading materials and informational posters in classroom displays offers students thirdhand experiences that enhance their understanding of the concepts and provide background information for firsthand experiences.]]> </cuepoint>
+			<cuepoint id="2" cuetime="57"> <![CDATA[Here, the classroom display includes photographs of students exploring the properties of different states of matter through firsthand experiences.]]> </cuepoint>
+			<cuepoint id="3" cuetime="63"> <![CDATA[The display tells the story of a "solids hunt", where students went exploring outside and brought back a variety of items with different characteristics. They then categorized the items and wrote descriptions of them.]]> </cuepoint>
+			<cuepoint id="4" cuetime="146"> <![CDATA[A student's representation of swings in motion reflects the child's firsthand experience on the playground. Including the representation in the classroom display reinforces for all the students that they experience the physical principles of force and motion every day.]]> </cuepoint>
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="38"> <![CDATA[Student representations of concepts are the cornerstone of classroom display.  Making students' creative work visible in the classroom helps stimulate thinking and reinforces the concepts.]]> </cuepoint>
+			<cuepoint id="1" cuetime="94"> <![CDATA[Students' 2-D representations, including labeled diagrams they create to represent their understanding, can be powerful components of a thought-provoking classroom display.]]> </cuepoint>
+			<cuepoint id="2" cuetime="113"> <![CDATA[The students' 3D representation of a rollercoaster is mounted on the outside of the classroom, where it can remain while the building process continues. Displaying in-process projects like this one allows children to continually examine their work and add to it as they learn more about the concepts and big ideas.]]> </cuepoint>
+			<cuepoint id="3" cuetime="139"> <![CDATA[As part of their unit on motion, the students collaborated on a large-scale mural on canvas, which represents their understanding of the physics at work at a local amusement park. The painting has become a permanent part of the school's hallway display.]]> </cuepoint>
+		</representationCuepoints>	
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="11"> <![CDATA[Classroom displays should feature hands-on objects to promote curiosity and engagement. This requires establishing a classroom culture early in the year where students respect classroom property and are trusted to use it appropriately.]]> </cuepoint>
+			<cuepoint id="1" cuetime="38"> <![CDATA[Here, student representations are displayed as an informational chart that illustrates the various characteristics of matter. This type of display emphasizes students' work as a source of information, validating their efforts and showing that their contributions to the classroom are valued.]]> </cuepoint>
+			<cuepoint id="2" cuetime="76"> <![CDATA[Documentation displays that show photographs of children at work help engage parents in the life of the classroom and make them part of the learning community. Here, parents can see their children engaged in a long-term project, and can follow the evolution of the project step-by-step.]]> </cuepoint>
+		</cultureCuepoints>	 	
+	</video>
+
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="11" mainelement="Resources Setup">
+    	<title>Classroom Resources</title>
+    	<area>Physical Science</area>
+    	<topic>Various</topic>
+    	<bigidea>Various</bigidea>
+    	<concept>Various</concept>
+    	<students>K-3 Science</students>
+    	<story>This video depicts a variety of resources to be used in teaching science for young children. A variety of adaptable resources should be offered to support the science content and children's evolving ideas.</story>
+    	<standards>Various Physical Science standards</standards>  
+		
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="10"> <![CDATA[--]]> </cuepoint>
+			<cuepoint id="1" cuetime="20"> <![CDATA[--]]> </cuepoint>
+			<cuepoint id="2" cuetime="30"> <![CDATA[--]]> </cuepoint>
+		</subtitleCuepoints>
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="7"> <![CDATA[Thinking about what materials children will need in their work is an important part of planning. When planning for a long-term project, teachers should consider asking parents to bring in modest materials and scraps for the children's use.]]> </cuepoint>
+			<cuepoint id="1" cuetime="24"> <![CDATA[To support children's understanding of solids, the teacher planned an experience in which she provided a variety of rocks for the children to sort into groups according to characteristics.  She had the rocks waiting on tables for children when they returned from lunch so they could get to work right away.]]> </cuepoint>
+			<cuepoint id="2" cuetime="30"> <![CDATA[In formal planning in the beginning of the year, the teacher arranged for every child to have a clipboard for recording observations. The sturdy clipboards can be taken on field trips and reused from year to year.]]> </cuepoint>
+			<cuepoint id="3" cuetime="51"> <![CDATA[Teachers can work with their school or local librarian to select reading materials that enrich children's understanding of the concepts and big ideas.]]> </cuepoint>
+			<cuepoint id="4" cuetime="72"> <![CDATA[Including resources such as wheels and axles in the dramatic play area helps ensure that even unstructured choice time provides an opportunity to enrich children's understanding of the concepts and big ideas.]]> </cuepoint>
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="15"> <![CDATA[Resources should include books, art supplies and an assortment of creative materials. To foster independence and creativity, children should be able to access resources when they need them and without assistance.]]> </cuepoint>
+			<cuepoint id="1" cuetime="20"> <![CDATA[Grouping supplies in an attractive manner makes them inviting to children. It also inspires children to want to experiment with different media, which in turn enriches their work and provides multiple opportunities for assessment.]]> </cuepoint>
+			<cuepoint id="2" cuetime="26"> <![CDATA[Resources are as much a part of the classroom's physical environment as the furniture and display boards.  Their visibility is a constant reminder to children that thinking is an active process, and that ideas should be recorded, experimented with, evaluated and revised.]]> </cuepoint>
+			<cuepoint id="3" cuetime="44"> <![CDATA[Book displays should be changed and updated to correspond with the subject matter taught in the classroom. Here, a selection of books about force and motion and simple machines provide information related to the concepts and big ideas.]]> </cuepoint>
+			<cuepoint id="4" cuetime="62"> <![CDATA[A small table display provides stimulating, unusual and thought-provoking items that children may explore on their own.]]> </cuepoint>
+			<cuepoint id="5" cuetime="75"> <![CDATA[Asking classroom families to bring in modest materials and scraps can be an inexpensive way to support a large-scale project.  Designating a kid-friendly place in the classroom for these varied supplies broadens children's thinking and encourages creativity.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="24"> <![CDATA[To support children's understanding of solids, the teacher set out materials for a firsthand experience in which children sorted a variety of rocks into groups according to characteristics.]]> </cuepoint>
+			<cuepoint id="1" cuetime="51"> <![CDATA[Books about force and motion and simple machines provide thirdhand experiences to enrich children's understanding of the concepts and big ideas. Making reading materials readily available throughout the room encourages children to use books as a resource in their work and to explore science related materials during reading time.]]> </cuepoint>
+			<cuepoint id="2" cuetime="67"> <![CDATA[A classroom setup that incorporates resources related to the concepts and big ideas encourages children to seek out firsthand experiences on their own. Observations and information gathered from these experiences can inform classroom discussions.]]> </cuepoint>
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="15"> <![CDATA[Keep in mind that no one medium offers the best means of expression for every child. Offering a wide variety of materials to be used in representation helps children convey their understanding of concepts and big ideas and also can give the teacher a more accurate assessment of children's understanding.]]> </cuepoint>
+			<cuepoint id="1" cuetime="30"> <![CDATA[Clipboards are one way to provide a convenient and efficient way for children to record observations. The observations will later inform children's representations of the concepts and big ideas. ]]> </cuepoint>
+			<cuepoint id="2" cuetime="56"> <![CDATA[Including a selection of nonfiction books amongst other hands-on materials encourages children to see the books as reference tools to be used in creating representations.]]> </cuepoint>
+			<cuepoint id="3" cuetime="74"> <![CDATA[Resources for large-scale representations can include a variety of donated materials. Using donated or found materials keeps costs low and inspires children to extend their thinking.]]> </cuepoint>
+		</representationCuepoints>	
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="19"> <![CDATA[Setting up spaces where materials are stored in an attractive and welcoming way encourages pride in the learning environment and inspires children's thinking.]]> </cuepoint>
+			<cuepoint id="1" cuetime="25"> <![CDATA[Storing materials so that they are always at hand tells children that they are capable, responsible members of the classroom community and that they have important work to do.]]> </cuepoint>
+			<cuepoint id="2" cuetime="38"> <![CDATA[Communicating expectations and setting routines supports a classroom culture where everyone takes responsibility for their surroundings. In turn, children should be trusted to treat classroom property with respect and to work as independently as possible.]]> </cuepoint>
+		</cultureCuepoints>	
+	</video>
+
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="12" mainelement="Formal Planning">
+    	<title>Lunchtime Planning</title>
+    	<area>Physical Science</area>
+    	<topic>Force and Motion</topic>
+    	<bigidea>Cause and Effect</bigidea>
+    	<concept>Force causes motion</concept>
+    	<students>K-1 Science</students>
+    	<story>All the K-1 teachers meet to discuss experiences students will need to acquire an understanding of different forces (i.e. gravity, friction, push, pull, etc.) and how these forces cause motion.</story>
+    	<standards>The motion of objects can be observed and measured. As a basis for understanding this concept:&#10; a. Students know the position of an object can be described by locating it in relation to another object or to the background.&#10; b. Students know an object's motion can be described by recording the change in position of the object over time.&#10; c. Students know the way to change how something is moving is by giving it a push or a pull. The size of the change is related to the strength, or the amount of force, of the push or pull.&#10; d. Students know tools and machines are used to apply pushes and pulls (forces) to make things move.&#10; e. Students know objects fall to the ground unless something holds them up.</standards>
+    	
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="2"> <![CDATA[Let’s think of something that you can put out, where the kids would have to see a push and a pull--]]> </cuepoint>
+			<cuepoint id="1" cuetime="10"> <![CDATA[A drop is really--]]> </cuepoint>
+			<cuepoint id="2" cuetime="11"> <![CDATA[And gravity, and gravity. I mean I'm thinking, do you want to put out--]]> </cuepoint>
+			<cuepoint id="3" cuetime="15"> <![CDATA[But a drop is really... yeah, ok. Right. An inclined plane would do it too. We got them to say it wasn’t pushed.]]> </cuepoint>
+			<cuepoint id="4" cuetime="19"> <![CDATA[I was thinking maybe you could have a big marble or a ball, and an inclined plane, and you want to get that ball from here to the other side of the carpet.]]> </cuepoint>
+			<cuepoint id="5" cuetime="29"> <![CDATA[You know, what are the ways? Because I think if you take it too far then they start saying you can throw it, we can <i>neh</i>, we can kick it, and then this…]]> </cuepoint>
+			<cuepoint id="6" cuetime="36"> <![CDATA[Right. Just right across the room.]]> </cuepoint>
+			<cuepoint id="7" cuetime="37"> <![CDATA[Yeah, so they have to say "we can push it."]]> </cuepoint>
+			<cuepoint id="8" cuetime="40"> <![CDATA[I would love to see if they can say "pull it," but...]]> </cuepoint>
+			<cuepoint id="9" cuetime="45"> <![CDATA[Probably not with the ball.]]> </cuepoint>
+			<cuepoint id="10" cuetime="47"> <![CDATA[If you want an inclined plane, they aren't going to say "pull." So do it two ways.]]> </cuepoint>
+			<cuepoint id="11" cuetime="52"> <![CDATA[--What about a square object?<br>--A bottle would be good if we had a piece of rope.]]> </cuepoint>
+			<cuepoint id="12" cuetime="54"> <![CDATA[...or something heavy. Something heavier.]]> </cuepoint>
+			<cuepoint id="13" cuetime="57"> <![CDATA[An arrowhead bottle. Tell them they can't turn it on its side. Or, let's say they say that: "turn it on its side and roll it."]]> </cuepoint>
+			<cuepoint id="14" cuetime="64"> <![CDATA[Great. That is one way. Let's say we can't turn it. Push it. Then you might get "pull." "Put a rope around it and pull it."]]> </cuepoint>
+			<cuepoint id="15" cuetime="72"> <![CDATA[You would get "pull," then.]]> </cuepoint>
+			<cuepoint id="16" cuetime="74"> <![CDATA[If you can't... so I think you need to say "yeah, great, that is one way, you can push it, but let's say we aren't allowed to tip it over, it's gonna spill."]]> </cuepoint>
+			<cuepoint id="17" cuetime="81"> <![CDATA[How would you do gravity, then?]]> </cuepoint>
+			<cuepoint id="18" cuetime="82"> <![CDATA[Yeah, gravity you have to have an inclined plane, or you have to drop it.]]> </cuepoint>
+			<cuepoint id="19" cuetime="86"> <![CDATA[What if you brought in a big...]]> </cuepoint>
+			<cuepoint id="20" cuetime="88"> <![CDATA[Plane? We don't have one.]]> </cuepoint>
+			<cuepoint id="21" cuetime="89"> <![CDATA[You know what I mean? You have to either drop it, or have an inclined plane. So you do it two ways. What's wrong with that?]]> </cuepoint>
+			<cuepoint id="22" cuetime="93"> <![CDATA[No no no... but you would have to put out a question for them.]]> </cuepoint>
+			<cuepoint id="23" cuetime="97"> <![CDATA[Right.]]> </cuepoint>
+			<cuepoint id="24" cuetime="98"> <![CDATA[Like what, something about… what if it was something heavy, and I had to get it from the first floor to the second floor? I don’t know.]]> </cuepoint>
+			<cuepoint id="25" cuetime="107"> <![CDATA[Something about were they would have to roll it down.]]> </cuepoint>
+			<cuepoint id="26" cuetime="109"> <![CDATA[You mean instead of having an inclined plane?]]> </cuepoint>
+			<cuepoint id="27" cuetime="110"> <![CDATA[Have them use the stairs for something like that.]]> </cuepoint>
+			<cuepoint id="28" cuetime="111"> <![CDATA[No, no, she wants to get to an inclined plane. But the job has to differ.]]> </cuepoint>
+			<cuepoint id="29" cuetime="115"> <![CDATA[But I don’t think we have to start with an inclined plane. We want to get it from one place to the other. That doesn’t have to be the way to do it.]]> </cuepoint>
+			<cuepoint id="30" cuetime="120"> <![CDATA[What about the introduction of gravity as a force?]]> </cuepoint>
+			<cuepoint id="31" cuetime="124"> <![CDATA[I think they are two different experiences.]]> </cuepoint>
+			<cuepoint id="32" cuetime="126"> <![CDATA[They are. I wouldn't do them on the same day.]]> </cuepoint>
+			<cuepoint id="33" cuetime="127"> <![CDATA[Let's split that up over a couple days.]]> </cuepoint>
+			<cuepoint id="34" cuetime="130"> <![CDATA[It is kind of a lot.]]> </cuepoint>
+			<cuepoint id="35" cuetime="131"> <![CDATA[Yeah. Because what you can do if you get them pushing and pulling, then you can take them out to the playground.]]> </cuepoint>
+			<cuepoint id="36" cuetime="138"> <![CDATA[Yeah. And that's what I want to do.]]> </cuepoint>
+		</subtitleCuepoints>	
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="17">  <![CDATA[All the teachers from the K-1 grade level meet to plan experiences that will help children acquire knowledge of the concepts and big ideas. Allocating time for grade-level meetings requires the support of administrators.]]> </cuepoint>
+			<cuepoint id="1" cuetime="102"> <![CDATA[Although one teacher starts the conversation, as it goes along everyone contributes different ideas.]]> </cuepoint>
+			<cuepoint id="2" cuetime="140"> <![CDATA[Meeting as a group allows the teachers to share ideas. After their discussion, they will implement the ideas in ways that are suited to their students.]]> </cuepoint>		
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="29">  <![CDATA[Teachers consider which materials and resources will be best suited to setting up firsthand experiences that illustrate the concepts.]]> </cuepoint>
+			<cuepoint id="1" cuetime="61">  <![CDATA[A teacher suggests using a large Arrowhead water bottle because it is common to all the classrooms and is heavy enough to present a challenge for the children when they try to move it.]]> </cuepoint>
+			<cuepoint id="2" cuetime="140"> <![CDATA[Using the playground equipment for experiences with force and motion extends the learning environment and helps children make connections between the concepts and the world around them.]]> </cuepoint>		
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="10">  <![CDATA[K-1 teachers discuss what firsthand experiences to provide for the students to demonstrate different kinds of forces.]]> </cuepoint>
+			<cuepoint id="1" cuetime="37">  <![CDATA[As the teachers consider different possibilities for experiences for the children, they anticipate how the children will react and what they will think while they are having the experiences.]]> </cuepoint>
+			<cuepoint id="2" cuetime="61">  <![CDATA[Asking children to move one of the large Arrowhead water bottles in their classroom offers a hands-on task that can inspire "how" and "why" questions and lead to further exploration.]]> </cuepoint>
+			<cuepoint id="3" cuetime="140"> <![CDATA[Once the teachers have given the children some background knowledge on force and motion, they will take the children to the playground for firsthand experiences to reinforce the concept.]]> </cuepoint>
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="37">  <![CDATA[Linking concepts and experiences in their planning discussions will help the teachers later as they assess the children's representations.]]> </cuepoint>
+			<cuepoint id="1" cuetime="113"> <![CDATA[The experiences the teachers are planning will be followed by discussion, where children will have the opportunity to orally represent their understanding of the concepts.]]> </cuepoint>
+		</representationCuepoints>
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="29"> <![CDATA[The teachers plan experiences that the children will share, which helps ensure everyone has background knowledge of the concepts and provides context for their discussions.]]> </cuepoint>
+			<cuepoint id="1" cuetime="67"> <![CDATA[Notice that the teacher anticipates the children will realize the easiest way to move the water bottle will be to roll it. She talks about honoring their response and then asking them to try another way.]]> </cuepoint>
+		</cultureCuepoints>
+	</video>
+	
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="13" mainelement="Flexible Planning">
+    	<title>Potential Potential Potential</title>
+    	<area>Physical Science</area>
+    	<topic>Energy</topic>
+    	<bigidea>Conservation</bigidea>
+    	<concept>Energy changes from one form to another</concept>
+    	<students>K-1 Science</students>
+    	<story>In the sequence before this video begins, students pointed out areas of potential and kinetic energy on the model roller coaster outside their classroom, and teachers realized there were misunderstandings regarding the concepts (for more on this, see the Example Video for Teacher-Student Culture). Taking advantage of a teachable moment, teachers decided to re-introduce the concepts to clear up the misconceptions. Before the concepts are presented again to the students, however, the teachers want to make sure their own understanding is correct, and so they consult with a physics expert.</story>
+    	<standards>Energy and matter have multiple forms and can be changed from one form to another. As a basis for understanding this concept:&#10;  a.  Students know sources of stored energy take many different forms, such as food, fuel, and batteries.&#10;  c. Students know machines and living things convert stored energy to motion and  heat.&#10;  d. Students know energy can be carried from one place to another by waves, such as water waves and sound waves, by electric current, and by moving objects. </standards>
+    	
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="1"> <![CDATA[The faster you go, the more kinetic energy you have.]]> </cuepoint>
+			<cuepoint id="1" cuetime="4"> <![CDATA[The faster you go, the more kinetic energy--]]> </cuepoint>
+			<cuepoint id="2" cuetime="5"> <![CDATA[No, is <i>not</i>, it is <i>not</i>...]]> </cuepoint>
+			<cuepoint id="3" cuetime="7"> <![CDATA[Yes, the faster you go--]]> </cuepoint>
+			<cuepoint id="4" cuetime="8"> <![CDATA[You said, the faster you go, the more--]]> </cuepoint>
+			<cuepoint id="5" cuetime="9"> <![CDATA[The faster you go, the more kinetic energy.]]> </cuepoint>
+			<cuepoint id="6" cuetime="12"> <![CDATA[Oh, okay.]]> </cuepoint>
+			<cuepoint id="7" cuetime="14"> <![CDATA[But, you've never <i>lost<i/> energy, alright? You've always had the same amount of energy.]]> </cuepoint>
+			<cuepoint id="8" cuetime="19"> <![CDATA[That's hard to understand.]]> </cuepoint>
+			<cuepoint id="9" cuetime="20"> <![CDATA[It's just gone from one form to another.]]> </cuepoint>
+			<cuepoint id="10" cuetime="23"> <![CDATA[That's what I really need to point out, because, in order to try and explain it to them...]]> </cuepoint>
+			<cuepoint id="11" cuetime="28"> <![CDATA[because they kept confusing energy with speed, and to try to explain it to them, you know, that they were storing it up, and then letting it out.]]> </cuepoint>
+			<cuepoint id="12" cuetime="38"> <![CDATA[We didn't talk about it, that it changes, that it's just a change...]]> </cuepoint>
+			<cuepoint id="13" cuetime="42"> <![CDATA[I think there's a little, um-- how do I say this word? Misconception. Energy and speed are <i>not</i> the same thing. ]]> </cuepoint>
+			<cuepoint id="14" cuetime="54"> <![CDATA[<i>La energia y la velocidad no son lo mismo.</i> Let's just talk about energy, forget the speed right now, okay?]]> </cuepoint>
+			<cuepoint id="15" cuetime="63"> <![CDATA[When you are at the top of the mountain, at the top, you're standing at the top of the mountain, what kind of energy do you have?]]> </cuepoint>
+			<cuepoint id="16" cuetime="73"> <![CDATA[Potential.]]> </cuepoint>
+			<cuepoint id="17" cuetime="76"> <![CDATA[And that is when you have the <i>most</i> potential energy, when you get to the top.]]> </cuepoint> 
+			<cuepoint id="18" cuetime="83"> <![CDATA[Okay, so we're gaining potential energy, potential energy, potential energy,  <i>max</i> potential energy, and that moment it starts coming down, that energy becomes--]]> </cuepoint>
+			<cuepoint id="19" cuetime="95"> <![CDATA[Kinetic.]]> </cuepoint>
+			<cuepoint id="20" cuetime="96"> <![CDATA[Okay, so it's transforming. Kinetic kinetic kinetic... When is kinetic energy at it's <i>max</i>? Eli, show me with your finger. Where? How do you know that?]]> </cuepoint>
+			<cuepoint id="21" cuetime="110"> <![CDATA[Because then you're not losing speed anymore.]]> </cuepoint>
+			<cuepoint id="22" cuetime="113"> <![CDATA[Speed? Are you losing sp-- forget speed. Don't talk speed. You are right. Right here is where you have the maximum kinetic energy.]]> </cuepoint>
+			<cuepoint id="23" cuetime="128"> <![CDATA[But you're stopping at that point.]]> </cuepoint>
+			<cuepoint id="24" cuetime="130"> <![CDATA[Do you stop?]]> </cuepoint>
+			<cuepoint id="25" cuetime="132"> <![CDATA[No.]]> </cuepoint>
+			<cuepoint id="26" cuetime="133"> <![CDATA[What happens? Show me with your finger what happens. Here you come. Show me.]]> </cuepoint> 
+			<cuepoint id="27" cuetime="136"> <![CDATA[Give me your finger, okay? Here you are. Here's the car. Gaining potential potential potential potential potential, maximum potential!]]> </cuepoint>
+			<cuepoint id="28" cuetime="145"> <![CDATA[Kinetic kinetic kinetic kinetic kinetic kinetic, maximum kinetic! What's happening as you make that turn? What kind of energy--]]> </cuepoint>
+			<cuepoint id="29" cuetime="155"> <![CDATA[Potential.]]> </cuepoint>
+			<cuepoint id="30" cuetime="157"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="31" cuetime="162"> <![CDATA[I want to see potential energy being transformed to kinetic energy, being transformed to kinetic energy--right?]]> </cuepoint> 
+			<cuepoint id="32" cuetime="173"> <![CDATA[<i>Potential</i> energy, back to kinetic energy, and I want to meet you here, at the maximum point of kinetic energy. And I want to hear the words!]]> </cuepoint>
+			<cuepoint id="33" cuetime="189"> <![CDATA[Potential, potential, potential, potential, potential...]]> </cuepoint>
+			<cuepoint id="34" cuetime="215"> <![CDATA[Kinetic, kinetic, kinetic, kinetic, kinetic...]]> </cuepoint>
+		</subtitleCuepoints>	
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="7">   <![CDATA[Upon realizing a common misconception in their students' understanding of kinetic and potential energy, the teachers take time to review the concepts.]]> </cuepoint>
+			<cuepoint id="1" cuetime="46">  <![CDATA[Next the teachers gather the students to address the confusion and clarify the concepts. The teachers have cleared class time for this essential discussion.]]> </cuepoint>
+			<cuepoint id="2" cuetime="158"> <![CDATA[At the end of the discussion, one child noted that the transformation of energy is similar to when he and his friends run up and down a hill near the school. The teachers capitalize on the student's insight and take the class to the hill for an impromptu experience that helps reinforce the concepts.]]> </cuepoint>		
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="59"> <![CDATA[The rug area provides a space where the teacher can gather the whole class to clarify the concepts. Here she is able to observe children's reactions and check in that everyone is getting the information.]]> </cuepoint>
+			<cuepoint id="1" cuetime="169"> <![CDATA[Taking the children to a grassy hill near the school extends the learning space beyond the classroom.]]> </cuepoint>
+			<cuepoint id="2" cuetime="184"> <![CDATA[Being flexible in her planning allows the teacher to pick up on a student's suggestion and results in using a space that is especially well suited to exploring the concepts.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="73">  <![CDATA[As the teacher speaks, she refers to a diagram of a roller coaster, which she labels. Looking at the diagram is a thirdhand experience for the children, giving them a visual representation of abstract concepts.]]> </cuepoint>
+			<cuepoint id="1" cuetime="89">  <![CDATA[As part of their firsthand experiences related to the concepts, the class visited a local amusement park. Recalling their experiences riding roller coasters helps the children make sense of the diagram.]]> </cuepoint>
+			<cuepoint id="2" cuetime="169"> <![CDATA[Following a student's suggestion, the teachers take the children to a nearby hill so that they can personally experience the transformation of energy in their bodies as they run up and down.]]> </cuepoint>		
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="127"> <![CDATA[The teacher and student refer to the teacher's 2-D representation of a roller coaster as they discuss the concepts.]]> </cuepoint>
+			<cuepoint id="1" cuetime="157"> <![CDATA[At the end of the classroom discussion the teacher took the children outside to the 3-D representation of a roller coaster that they had made. She had them identify the sections of the representation where kinetic and potential energy are used.]]> </cuepoint>
+			<cuepoint id="2" cuetime="187"> <![CDATA[The teacher requires the children to use formal academic language to describe the movement of matter--potential and kinetic energy--as they run up and down the hill. This reinforces the concepts through two kinds of representation--oral and kinesthetic.]]> </cuepoint>		
+		</representationCuepoints>
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="32">  <![CDATA[In an effective Classroom-Ecosystem, teachers see themselves as continual learners. By consulting with a member of the classroom community who is more expert in physics, the teachers enhance their knowledge and are better able to help the children understand physics.]]> </cuepoint>
+			<cuepoint id="1" cuetime="60"> <![CDATA[When teachers and children are constructing knowledge together, it is sometimes necessary to change the plan for the day. Here the teacher has postponed a planned experience so the class can gather for a discussion to clarify the concepts. ]]> </cuepoint>
+			<cuepoint id="2" cuetime="169"> <![CDATA[Providing opportunities for children to connect the concepts to familiar activities helps make the concepts more meaningful.]]> </cuepoint>
+		</cultureCuepoints>
+	</video>
+	
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="14" mainelement="Project Planning">
+    	<title>The Project</title>
+    	<area>Physical Science</area>
+    	<topic>Energy</topic>
+    	<bigidea>Systems</bigidea>
+    	<concept>Simple machines make work easier</concept>
+    	<students>K-1 Science</students>
+    	<story>K-1 teachers from adjoining classrooms meet to discuss possibilities for a long-term project through which students will demonstrate their understanding of the concepts.</story>
+    	<standards>The motion of objects can be observed and measured. As a basis for understanding this concept:&#10;  c.  Students know the way to change how something is moving is by giving it a push or a pull. The size of the change is related to the strength, or the amount of force, of the push or pull.&#10;  d. Students know tools and machines are used to apply pushes and pulls (forces) to make things move.&#10;  e. Students know objects fall to the ground unless something holds them up.</standards>
+    	
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="1"> <![CDATA[I thought then, the next step would be to talk to the children about how we could make-- what they could design for our classroom,]]> </cuepoint> 
+			<cuepoint id="1" cuetime="10"> <![CDATA[or outside the classroom like in the block area, or in the playground, to make their play or the work easier.]]> </cuepoint>
+			<cuepoint id="2" cuetime="18"> <![CDATA[And this is where I can put math in. You could try it the way it exists now, and then time it to see if the thing, the thing they make, does it make it faster?]]> </cuepoint> 
+			<cuepoint id="3" cuetime="28"> <![CDATA[Or, which is faster, which is slower?]]> </cuepoint>
+			<cuepoint id="4" cuetime="31"> <![CDATA[That's a great idea.]]> </cuepoint>
+			<cuepoint id="5" cuetime="32"> <![CDATA[That's great. To see if, you know...]]> </cuepoint>
+			<cuepoint id="6" cuetime="34"> <![CDATA[Let's just talk for a minute. What's our goal? If we start with that, we can think about where to guide them next.]]> </cuepoint>
+			<cuepoint id="7" cuetime="40"> <![CDATA[I know that we want to, the kids to engage in a long-term project, and that long-term project will be about designing, building...]]> </cuepoint>
+			<cuepoint id="8" cuetime="48"> <![CDATA[It's to make work easier.]]> </cuepoint>
+			<cuepoint id="9" cuetime="50"> <![CDATA[Easier. That's the goal.]]> </cuepoint>
+			<cuepoint id="10" cuetime="51"> <![CDATA[Because if we were going back to designing toys, I think we would get way off of where we would like them to go.]]> </cuepoint>
+		</subtitleCuepoints>
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="18"> <![CDATA[Many times project ideas generate from the children through conversation and discussion. Other times, teachers ask the students thought-provoking questions that will stimulate ideas for a long-term project.]]> </cuepoint>
+			<cuepoint id="1" cuetime="35"> <![CDATA[Teachers discuss the main concept that will be reinforced for the students through the project.]]> </cuepoint>
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="14"> <![CDATA[The teacher is thinking about using different areas inside and outside the classroom for the project. Depending on what the children decide, the areas will be modified to fit the project design.]]> </cuepoint>
+			<cuepoint id="1" cuetime="51"> <![CDATA[After the teachers talk to the children about what they will build, they will do further project planning to determine what resources they need to implement the project.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="23"> <![CDATA[The teacher is thinking about how to design experiences around the project that would integrate other curricular areas.]]> </cuepoint>
+			<cuepoint id="1" cuetime="50"> <![CDATA[Planning for this long-term project comes after children have had many experiences that introduced and reinforced the concepts.]]> </cuepoint>
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="9">  <![CDATA[Oftentimes, teachers choose how students will represent their understanding of a concept or big idea. However, there are times when teachers ask students to choose how they want to demonstrate their knowledge. Student choice is a significant part of the process in long-term projects.]]> </cuepoint>
+			<cuepoint id="1" cuetime="50"> <![CDATA[The process of designing and building the project will provide many opportunities for teachers to assess children's understanding of the concepts.]]> </cuepoint>
+			<cuepoint id="2" cuetime="57"> <![CDATA[Earlier in the year, children designed simple toys as 3-D representations of the concept that simple machines make work easier.]]> </cuepoint>
+		</representationCuepoints>
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="6">  <![CDATA[Asking children to contribute their ideas to the project design helps them to be more invested in the work and more likely to develop a deep understanding of the concepts.]]> </cuepoint>
+			<cuepoint id="1" cuetime="18"> <![CDATA[Focusing the project on children's play or work helps make the concepts less abstract and encourages the children to make connections between science and their everyday lives.]]> </cuepoint>
+			<cuepoint id="2" cuetime="44"> <![CDATA[All the children will contribute to the classroom project. This provides a natural way to help them develop collaborative skills.]]> </cuepoint>
+		</cultureCuepoints>
+	</video>
+
+<!----------------------------------------------------------/video--------------------------------------------------------------------->
+
+<!----------------------------------------------------------video--------------------------------------------------------------------->
+
+	<video id="15" mainelement="Student-Student Culture">
+    	<title>The Roller Coaster</title>
+    	<area>Physical Science</area>
+    	<topic>Matter and Energy</topic>
+    	<bigidea>Cause and Effect</bigidea>
+    	<concept>Force causes motion</concept>
+    	<students>K-1 Science</students>
+    	<story>During their study of simple machines, force and motion, and kinetic and potential energy, students decided to build a roller coaster that sends messages from one classroom to another. In this video, two children are working on the roller coaster model.</story>
+    	<standards>The motion of objects can be observed and measured. As a basis for understanding this concept:&#10;a. Students know the position of an object can be described by locating it in relation to another object or to the background.&#10;b. Students know an object's motion can be described by recording the change in position of the object over time.&#10;c. Students know the way to change how something is moving is by giving it a push or a pull. The size of the change is related to the strength, or the amount of force, of the push or pull.&#10;d. Students know tools and machines are used to apply pushes and pulls (forces) to make things move.&#10;e. Students know objects fall to the ground unless something holds them up.</standards>
+    	
+		<subtitleCuepoints>
+			<cuepoint id="0" cuetime="1"> <![CDATA[Okay, test it Julian!]]> </cuepoint>
+			<cuepoint id="1" cuetime="3"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="2" cuetime="6"> <![CDATA[Test it on this one.]]> </cuepoint>
+			<cuepoint id="3" cuetime="8"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="4" cuetime="11"> <![CDATA[No, stop!]]> </cuepoint>
+			<cuepoint id="5" cuetime="13"> <![CDATA[--Nope.<br>--That didn't work.]]> </cuepoint>
+			<cuepoint id="6" cuetime="14"> <![CDATA[No...]]> </cuepoint>
+			<cuepoint id="7" cuetime="16"> <![CDATA[Here, let's do it this way. Now try it.]]> </cuepoint>
+			<cuepoint id="8" cuetime="20"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="9" cuetime="29"> <![CDATA[Maybe we need...]]> </cuepoint>
+			<cuepoint id="10" cuetime="34"> <![CDATA[Here, give me another piece. No, put it right there.]]> </cuepoint>
+			<cuepoint id="11" cuetime="41"> <![CDATA[See, you do this, it might be able to hold it.]]> </cuepoint>
+			<cuepoint id="12" cuetime="44"> <![CDATA[No, it doesn't.]]> </cuepoint>
+			<cuepoint id="13" cuetime="46"> <![CDATA[Yeah, that's good! Yeah, okay, now try it. Try it. Julian, let it go.]]> </cuepoint>
+			<cuepoint id="14" cuetime="51"> <![CDATA[No, but then it won't have the support it needs to.]]> </cuepoint>
+			<cuepoint id="15" cuetime="55"> <![CDATA[I'll get more things.]]> </cuepoint>
+			<cuepoint id="16" cuetime="58"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="17" cuetime="65"> <![CDATA[Now will it work?]]> </cuepoint>
+			<cuepoint id="18" cuetime="68"> <![CDATA[Oh. Oh, look!]]> </cuepoint>
+			<cuepoint id="19" cuetime="70"> <![CDATA[Oh, I see why it does it! It's because it's going against this, so it doesn't fall.]]> </cuepoint>
+			<cuepoint id="20" cuetime="75"> <![CDATA[Yeah.]]> </cuepoint>
+			<cuepoint id="21" cuetime="77"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="22" cuetime="80"> <![CDATA[Here, these will work.]]> </cuepoint>
+			<cuepoint id="23" cuetime="84"> <![CDATA[What are those?]]> </cuepoint>
+			<cuepoint id="24" cuetime="85"> <![CDATA[They're chains...]]> </cuepoint>
+			<cuepoint id="25" cuetime="88"> <![CDATA[Nah... they won't help. We need more things... Oh, there!]]> </cuepoint>
+			<cuepoint id="26" cuetime="99"> <![CDATA[ ]]> </cuepoint>
+			<cuepoint id="27" cuetime="103"> <![CDATA[We need something to support this a little more.]]> </cuepoint>
+			<cuepoint id="28" cuetime="106"> <![CDATA[You need something to support it a little more?]]> </cuepoint>
+			<cuepoint id="29" cuetime="107"> <![CDATA[Since it basically--]]> </cuepoint>
+			<cuepoint id="10" cuetime="111"> <![CDATA[Okay, so it looks to me like you need something that isn't going to topple over, so why don't you look around...]]> </cuepoint>
+			<cuepoint id="31" cuetime="120"> <![CDATA[Why don't you look around, Rishi? Why don't you and Julian look around, maybe in your construction area, or in the closet, for something that will not topple over.]]> </cuepoint>
+			<cuepoint id="32" cuetime="130"> <![CDATA[Okay? Maybe you could ask Nicky and couple other children for some ideas?]]> </cuepoint>
+			<cuepoint id="33" cuetime="135"> <![CDATA[Oh, a cup! We could use a cup!]]> </cuepoint>
+			<cuepoint id="34" cuetime="139"> <![CDATA[We could use a cup to do it!]]> </cuepoint>
+			<cuepoint id="35" cuetime="142"> <![CDATA[Yeah!]]> </cuepoint>
+			<cuepoint id="36" cuetime="143"> <![CDATA[Try!]]> </cuepoint>
+			<cuepoint id="37" cuetime="146"> <![CDATA[Now, look!]]> </cuepoint>
+			<cuepoint id="38" cuetime="150"> <![CDATA[Oh, it went down...]]> </cuepoint>
+			<cuepoint id="39" cuetime="152"> <![CDATA[ ]]> </cuepoint>
+		</subtitleCuepoints>
+		
+		<planningCuepoints>
+			<cuepoint id="0" cuetime="13"> <![CDATA[When the children came up with the idea to build a roller coaster, the teachers did project planning to ensure that there would be many opportunities for learning about the science concepts and big ideas.]]> </cuepoint>
+			<cuepoint id="1" cuetime="29"> <![CDATA[In their project planning, teachers asked families to contribute scrap materials for use in building the roller coaster.]]> </cuepoint>
+			<cuepoint id="2" cuetime="82"> <![CDATA[Part of the planning process was to group children into committees. These two students volunteered for the Building Committee. Committees are a good way to incorporate small-group work into class projects, and they mirror practices used in the adult workplace.]]> </cuepoint>
+		</planningCuepoints>
+		
+		<setupCuepoints>
+			<cuepoint id="0" cuetime="14"> <![CDATA[Teachers and children work on the roller coaster outside. Using outdoor space extends the learning environment and allows teachers and small groups to engage in detailed, concentrated work with fewer distractions.]]> </cuepoint>
+			<cuepoint id="1" cuetime="25"> <![CDATA[Students and teachers chose to mount the roller coaster in a space where they can have easy, on-going access to it. This allows them to make revisions as needed and helps create an on-going dialogue about the project and the concepts.]]> </cuepoint>
+			<cuepoint id="2" cuetime="93"> <![CDATA[The materials for the project are varied and accessible to all the children. The teacher encourages the children to decide which materials will work best for their purpose.]]> </cuepoint>
+			<cuepoint id="3" cuetime="137"> <![CDATA[The materials include a jumble of donated scraps. Using donated and found materials keeps project costs low and inspires children to use creativity and imagination.]]> </cuepoint>
+		</setupCuepoints>
+		
+		<experiencesCuepoints>
+			<cuepoint id="0" cuetime="24"> <![CDATA[Working with a 3-D model provides children with firsthand experiences that make the concepts more tangible. Here the children can observe firsthand the effects of force and motion and the operation of simple machines such as inclined planes.]]> </cuepoint>
+			<cuepoint id="1" cuetime="44"> <![CDATA[The students' building and testing of the roller coaster model is informed by previous experiences designed to illustrate the concepts. It also will provide context and help deepen understanding as they continue to explore the concepts and big ideas.]]> </cuepoint>
+		</experiencesCuepoints>
+		
+		<representationCuepoints>
+			<cuepoint id="0" cuetime="13"> <![CDATA[The model roller coaster is a 3-D representation of concepts such as <i>force causes motion and simple machines make work easier.</i>]]> </cuepoint>
+			<cuepoint id="1" cuetime="36"> <![CDATA[Before beginning construction of the roller coaster, the children created 2-D representations of the components, such as inclined planes. In their drawings and paintings the children recorded their observations and then used those observations to inform the building of their 3-D representations.]]> </cuepoint>
+			<cuepoint id="2" cuetime="82"> <![CDATA[The students' testing leads to observations about what makes sections of the roller coaster function, and this in turn leads to revisions to the model. Revising their 3-D representations allows children to deepen their understanding and formulate new questions.]]> </cuepoint>
+		</representationCuepoints>	
+		
+		<cultureCuepoints>
+			<cuepoint id="0" cuetime="5"> <![CDATA[Although a teacher is present to supervise, the children are trusted to work on testing and improving the model roller coaster the group is building. They are able to work independently and productively because the teachers have set up routines to support this and children have had much practice working together.]]> </cuepoint>
+			<cuepoint id="1" cuetime="24"> <![CDATA[Notice that the task requires the children to work cooperatively to solve the problem of how to get the ball through the tube. Real work in the world requires collaboration.]]> </cuepoint>
+			<cuepoint id="2" cuetime="54"> <![CDATA[Notice how the children negotiate ideas, making suggestions and in turn being open to suggestions. Again, this kind of cooperative work is made possible by giving children many opportunities to work together.]]> </cuepoint>
+			<cuepoint id="3" cuetime="155"> <![CDATA[The task engages the children and sustains their interest because it is in the context of a project they and their peers have generated.]]> </cuepoint>
+		</cultureCuepoints>
+	</video>
+
+<!----------------------------------------------------------/video--------------------------------------------------------------------->

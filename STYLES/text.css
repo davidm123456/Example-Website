@@ -1,0 +1,195 @@
+.text {
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+	line-height: 21px;
+}
+
+.texttable {
+	font-family: "Arial";
+	font-size: 12px;
+	font-style: normal;
+	line-height: 24px; 
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+}
+
+.textSmall {
+	font-family: "Arial";
+	font-size: 10px;
+	font-style: normal;
+	line-height: 15px; 
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+}
+
+.textBig {
+	font-family: Arial;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal; 
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+}
+
+.texttitleSmall {
+	font-family: "Arial";
+	font-size: 14px;
+	font-style: normal;
+	line-height: 22px; 
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #003399;
+	text-decoration: none;
+}
+
+a:link {
+	font-family: "Arial";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #003399;
+	text-decoration: none;
+}
+
+a:visited {
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #003399;
+	text-decoration: none;
+}
+
+a:hover {
+	font-family: "Arial";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #3366ff;
+	text-decoration: none;
+}
+
+
+.linkSmall a:link {
+	font-family: "Arial";
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #003399;
+	text-decoration: none;
+}
+
+.linkSmall a:visited {
+	font-family: "Arial";
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #003399;
+	text-decoration: none;
+}
+
+.linkSmall a:hover {
+	font-family: "Arial";
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #0033ff;
+	text-decoration: none;
+}
+
+.body {
+	SCROLLBAR-FACE-COLOR: #FFFFFF;
+	SCROLLBAR-HIGHLIGHT-COLOR: #CCCCCC;
+	SCROLLBAR-3DLIGHT-COLOR: #996633;
+	SCROLLBAR-DARKSHADOW-COLOR: #FOFOFO;
+	SCROLLBAR-SHADOW-COLOR: #666666;
+	SCROLLBAR-ARROW-COLOR: #996633;
+	SCROLLBAR-TRACK-COLOR: #F0F0F0;
+	margin: 0px;
+	padding: 0px;
+}
+
+.forms {
+	font-family: "Trebuchet MS";
+	font-size: 14px;
+	background-color: #FFFFFF;
+	border: thin #CCCCCC;
+}
+
+.yes {
+	color: #000000;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 12px;
+	font-style: normal;
+	text-transform: none;
+}
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.NO {
+	color: #FF0000;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 12px;
+	font-style: normal;
+	text-transform: none;
+}
+
+.linkdead {
+	font-family: arial;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #666666;
+}
+
+.textnoline {
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+}

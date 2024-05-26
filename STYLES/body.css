@@ -1,0 +1,24 @@
+p {
+	font-family: "Goudy";
+	font-size: 17px;
+	text-indent: 80px;
+}
+a:link {
+	color: #CC0000;
+	text-decoration: underline;
+}
+a:hover {
+	color: #3F7FBE;
+	text-decoration: none;
+}
+.hilight {
+	font-weight: bold;
+}
+.alignRight {
+	text-align: right;
+}
+.colorBlue {
+	color: #3F7FBE;
+}
+
+
